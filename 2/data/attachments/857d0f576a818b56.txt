@@ -1,0 +1,1 @@
+[{"id":1,"name":"Network Engineer","use_ai":true},{"id":2,"name":"Virtual Assistant","use_ai":false}]
