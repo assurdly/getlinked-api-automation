@@ -1,0 +1,10 @@
+{
+    "first_name": "Micheal",
+    "last_name": "Rosenbaum",
+    "email": "Tyson46@yahoo.com",
+    "phone_number": "08015788742",
+    "date_of_birth": "1995-12-12",
+    "gender": "M",
+    "password": "Alliswell2012$",
+    "confirm_password": "Alliswell2012$"
+}

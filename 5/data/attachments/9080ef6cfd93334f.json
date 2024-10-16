@@ -1,0 +1,11 @@
+{
+    "Authorization": "Bearer {{local_token}}",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "ad1cb457-455f-46c3-849d-270e73a2cace",
+    "Host": "64.227.14.194recruiter",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
