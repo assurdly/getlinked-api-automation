@@ -1,0 +1,205 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 18 18:52:58 GMT 2024","Fri Oct 18 18:52:58 GMT 2024","155","GetLinked Collection","Assessment as a service","Video Interview","","","create question in  interview pack",""
+"passed","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","239","GetLinked Collection","Assessment as a service","Dashboards","","","My questions",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","49","GetLinked Collection","Job","JOB PIPELINE","","","delete pipeline",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","58","GetLinked Collection","AUTHENTICATION","","","","Forgot_password",""
+"passed","Fri Oct 18 18:52:55 GMT 2024","Fri Oct 18 18:52:55 GMT 2024","199","GetLinked Collection","Assessment as a service","Question Pack","","","Add Question to a Pack",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","126","GetLinked Collection","Assessment as a service","Assessment Section","","","Delete a Section",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","49","GetLinked Collection","AUTHENTICATION Copy","","","","Forgot_password",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","94","GetLinked Collection","Job","JOB PIPELINE > Comment > Update a comment","","","edit comment",""
+"passed","Fri Oct 18 18:53:08 GMT 2024","Fri Oct 18 18:53:08 GMT 2024","99","GetLinked Collection","Job","","","","track_job_view",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","73","GetLinked Collection","Assessment as a service","Assessment","","","delete an assessment",""
+"passed","Fri Oct 18 18:52:27 GMT 2024","Fri Oct 18 18:52:27 GMT 2024","305","GetLinked Collection","Assessment as a service","Result Managment","","","export candidate result",""
+"passed","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","258","GetLinked Collection","Assessment as a service","Invitation","","","additional invite",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","52","GetLinked Collection","AUTHENTICATION","","","","verify_account",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","82","GetLinked Collection","Assessment as a service","Assessment","","","edit question in assessment",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","46","GetLinked Collection","AUTHENTICATION Copy","","","","update_account_details",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","48","GetLinked Collection","Assessment as a service","Assessment","","","remove section from assessment",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","37","GetLinked Collection","Job","","","","fetch industries",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","47","GetLinked Collection","Assessment as a service","Assessment","","","get test recommendations",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","68","GetLinked Collection","Assessment as a service","Question Pack","","","Create Question in Question Pack",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","42","GetLinked Collection","Assessment as a service","Question Pack","","","Edit question pack",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","57","GetLinked Collection","Assessment as a service","Question Pack","","","Delete Question in Pack",""
+"broken","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","58","GetLinked Collection","Assessment as a service","Proctoring","","","proctoring report",""
+"failed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","66","GetLinked Collection","AUTHENTICATION","Register","","","empty fields - register",""
+"broken","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","9","GetLinked Collection","Assessment as a service","Video Interview > invitation","","","invite for interview from assessment",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","51","GetLinked Collection","AUTHENTICATION Copy","","","","login",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","43","GetLinked Collection","Job","","","","fetch jobs",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","18","GetLinked Collection","Assessment as a service","Video Interview","","","add or remove questions to assessment interview",""
+"failed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","51","GetLinked Collection","AUTHENTICATION Copy","Register","","","Invalid name - register",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","199","GetLinked Collection","Assessment as a service","Assessment Section Copy","","","Delete a Section",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","54","GetLinked Collection","AUTHENTICATION","","","","has updated password",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","59","GetLinked Collection","AUTHENTICATION","","","","change_password",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","19","GetLinked Collection","Assessment as a service","Video Interview","","","mark interview as started",""
+"passed","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","194","GetLinked Collection","Assessment as a service","Dashboards","","","My Candidates",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","37","GetLinked Collection","Job","JOB PIPELINE","","","remove job applicant from pipeline",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","50","GetLinked Collection","Assessment as a service","Assessment","","","Delete question from section",""
+"passed","Fri Oct 18 18:53:07 GMT 2024","Fri Oct 18 18:53:08 GMT 2024","106","GetLinked Collection","Job","","","","get job details",""
+"broken","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","27","GetLinked Collection","Assessment as a service","Dashboards","","","remove candidate",""
+"broken","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","26","GetLinked Collection","Job","JOB PIPELINE","","","recalculate matching score",""
+"broken","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","109","GetLinked Collection","Assessment as a service","Invitation","","","invite candidates viia invite document",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","115","GetLinked Collection","Job","JOB PIPELINE","","","create a custom job pipeline",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","53","GetLinked Collection","Assessment as a service","Assessment Section","","","Create Section",""
+"failed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","67","GetLinked Collection","AUTHENTICATION Copy","Register","","","register Copy 3",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","46","GetLinked Collection","Job","","","","job update","Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)"
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","49","GetLinked Collection","Assessment as a service","Question Pack","","","Add question pack to section",""
+"passed","Fri Oct 18 18:52:27 GMT 2024","Fri Oct 18 18:52:27 GMT 2024","148","GetLinked Collection","Assessment as a service","Result Managment","","","get result overview",""
+"passed","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","143","GetLinked Collection","Assessment as a service","Dashboards","","","My assessments",""
+"passed","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","232","GetLinked Collection","Assessment as a service","Result Managment","","","post a comment",""
+"failed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","61","GetLinked Collection","AUTHENTICATION","Register","","","Invalid name - register",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","62","GetLinked Collection","Assessment as a service","Assessment","","","update assessment",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","16","GetLinked Collection","Assessment as a service","Video Interview","","","pagination - candidate result",""
+"passed","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","181","GetLinked Collection","Assessment as a service","Invitation","","","invite external candidates",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","46","GetLinked Collection","Assessment as a service","Assessment","","","edit section in assessment",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","76","GetLinked Collection","AUTHENTICATION","","","","resend_talent_email_verification_code",""
+"broken","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","24","GetLinked Collection","Assessment as a service","Dashboards","","","candidate result detail",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","50","GetLinked Collection","AUTHENTICATION","","","","login",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","39","GetLinked Collection","AUTHENTICATION Copy","","","","get_user_details",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","43","GetLinked Collection","Job","JOB PIPELINE","","","bulk update",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","250","GetLinked Collection","Assessment as a service","Assessment > Role","","","fetch all roles",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","48","GetLinked Collection","Job","","","","generate role responsibilities",""
+"broken","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","18","GetLinked Collection","Assessment as a service","Video Interview > invitation","","","invite external",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:07 GMT 2024","773","GetLinked Collection","Job","","","","non_talent_job_list",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","51","GetLinked Collection","Assessment as a service","Question Pack","","","edit question in pack",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","46","GetLinked Collection","Assessment as a service","Assessment Section Copy","","","Create Section",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","473","GetLinked Collection","Job","JOB PIPELINE","","","recruiter pipelines",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","45","GetLinked Collection","Job","JOB PIPELINE","","","update job pipeline",""
+"passed","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:25 GMT 2024","263","GetLinked Collection","Assessment as a service","Take Assessment","","","verify candidate",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","103","GetLinked Collection","Job","JOB PIPELINE","","","job application pipeline details",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","48","GetLinked Collection","AUTHENTICATION","","","","get_user_details",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","48","GetLinked Collection","Assessment as a service","Assessment","","","retreive an assessment",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","47","GetLinked Collection","Job","JOB PIPELINE","","","create a default job pipeline",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","88","GetLinked Collection","Assessment as a service","Video Interview","","","candidate answer",""
+"broken","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","55","GetLinked Collection","Assessment as a service","Dashboards","","","assessment detail",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","44","GetLinked Collection","AUTHENTICATION Copy","","","","password_reset",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","184","GetLinked Collection","Assessment as a service","Question Pack","","","list question pack questions",""
+"passed","Fri Oct 18 18:52:54 GMT 2024","Fri Oct 18 18:52:54 GMT 2024","45","GetLinked Collection","Assessment as a service","Question Pack","","","Get Question Pack Details",""
+"passed","Fri Oct 18 18:53:08 GMT 2024","Fri Oct 18 18:53:08 GMT 2024","99","GetLinked Collection","Job","","","","delete job",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","52","GetLinked Collection","AUTHENTICATION","","","","password_reset",""
+"passed","Fri Oct 18 18:52:28 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","24932","GetLinked Collection","Assessment as a service","Result Managment","","","get comments on a result",""
+"broken","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","54","GetLinked Collection","Assessment as a service","Result Managment","","","candidate answers",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","118","GetLinked Collection","Job","JOB PIPELINE > Comment > Delete Comment","","","delete a comment",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","54","GetLinked Collection","AUTHENTICATION Copy","Register","","","register",""
+"passed","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","151","GetLinked Collection","Assessment as a service","Video Interview","","","list questions in an interview pack",""
+"passed","Fri Oct 18 18:52:25 GMT 2024","Fri Oct 18 18:52:25 GMT 2024","151","GetLinked Collection","Assessment as a service","Take Assessment","","","mark as started",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:56 GMT 2024","56","GetLinked Collection","Assessment as a service","Question Pack","","","Upload Bulk Questions",""
+"broken","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","33","GetLinked Collection","Assessment as a service","Assessment","","","generate intro message",""
+"passed","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","59","GetLinked Collection","Assessment as a service","Video Interview","","","ID verification",""
+"passed","Fri Oct 18 18:52:25 GMT 2024","Fri Oct 18 18:52:25 GMT 2024","224","GetLinked Collection","Assessment as a service","Take Assessment","","","accept assessment invite",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","30","GetLinked Collection","Assessment as a service","Video Interview","","","assessment interview detail",""
+"broken","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","179","GetLinked Collection","Assessment as a service","Test","","","get a test",""
+"failed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","59","GetLinked Collection","AUTHENTICATION Copy","Register","","","already existing user - register",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","53","GetLinked Collection","Assessment as a service","Assessment","","","add section to assessment",""
+"broken","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","93","GetLinked Collection","Job","JOB PIPELINE","","","create and add stages to pipeline",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","51","GetLinked Collection","AUTHENTICATION","","","","update_account_details",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","53","GetLinked Collection","AUTHENTICATION Copy","","","","change_password",""
+"broken","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","32","GetLinked Collection","Job","JOB PIPELINE","","","upload bulk cv to pipeline",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","43","GetLinked Collection","Job","JOB PIPELINE","","","re arrange job pipeline",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","46","GetLinked Collection","Assessment as a service","Assessment Section Copy","","","fetch all Sections",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","43","GetLinked Collection","AUTHENTICATION Copy","","","","verify_account",""
+"passed","Fri Oct 18 18:53:07 GMT 2024","Fri Oct 18 18:53:07 GMT 2024","105","GetLinked Collection","Job","","","","fetch_job_applications_in_job",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","56","GetLinked Collection","Assessment as a service","Assessment","","","create an assessment",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","46","GetLinked Collection","Job","JOB PIPELINE","","","delete a pipeline stage",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","55","GetLinked Collection","Assessment as a service","Assessment","","","create question in question pack",""
+"failed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","66","GetLinked Collection","AUTHENTICATION","Register","","","register Copy 3",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","54","GetLinked Collection","Job","JOB PIPELINE","","","get job pipeline",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","17","GetLinked Collection","Assessment as a service","Video Interview","","","create assessment interview",""
+"passed","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","184","GetLinked Collection","Assessment as a service","Result Managment","","","delete a comment",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","119","GetLinked Collection","Assessment as a service","Assessment > Role","","","get a single role",""
+"passed","Fri Oct 18 18:52:26 GMT 2024","Fri Oct 18 18:52:27 GMT 2024","531","GetLinked Collection","Assessment as a service","Proctoring","","","update proctoring report",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","118","GetLinked Collection","Job","JOB PIPELINE > Comment > Comment on an applicant","","","get comments on an applicant",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","15","GetLinked Collection","Assessment as a service","Video Interview","","","verify interview candidate",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","49","GetLinked Collection","AUTHENTICATION Copy","","","","refresh token",""
+"passed","Fri Oct 18 18:52:56 GMT 2024","Fri Oct 18 18:52:57 GMT 2024","807","GetLinked Collection","Assessment as a service","Video Interview","","","list interview packs",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","43","GetLinked Collection","Job","JOB PIPELINE","","","update stages",""
+"passed","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","228","GetLinked Collection","Assessment as a service","Invitation","","","ExcelFileAnalysis",""
+"failed","Fri Oct 18 18:52:19 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","76","GetLinked Collection","AUTHENTICATION","Register","","","already existing user - register",""
+"passed","Fri Oct 18 18:52:19 GMT 2024","Fri Oct 18 18:52:19 GMT 2024","295","GetLinked Collection","AUTHENTICATION","Register","","","register",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","44","GetLinked Collection","Assessment as a service","Assessment Section","","","fetch all Sections",""
+"broken","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","67","GetLinked Collection","Assessment as a service","Assessment","","","reorder-sections",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","18","GetLinked Collection","Assessment as a service","Video Interview","","","delete assessment interview",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","26","GetLinked Collection","Assessment as a service","Video Interview","","","list all assessment interviews",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","52","GetLinked Collection","Assessment as a service","Assessment","","","add question",""
+"passed","Fri Oct 18 18:52:58 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","4878","GetLinked Collection","Assessment as a service","Video Interview","","","retrieve an interview pack",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","8","GetLinked Collection","Assessment as a service","Video Interview","","","edit question in interview pack",""
+"passed","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:54 GMT 2024","1001","GetLinked Collection","Assessment as a service","Question Pack","","","List Question Packs",""
+"passed","Fri Oct 18 18:52:25 GMT 2024","Fri Oct 18 18:52:26 GMT 2024","222","GetLinked Collection","Assessment as a service","Take Assessment","","","candidate answer",""
+"passed","Fri Oct 18 18:53:05 GMT 2024","Fri Oct 18 18:53:05 GMT 2024","512","GetLinked Collection","Job","JOB PIPELINE","","","fetch my job pipelines",""
+"passed","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","79","GetLinked Collection","Assessment as a service","Question","","","retrieve question",""
+"passed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:20 GMT 2024","47","GetLinked Collection","AUTHENTICATION","","","","refresh token",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","53","GetLinked Collection","AUTHENTICATION Copy","","","","has updated password",""
+"broken","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","29","GetLinked Collection","Assessment as a service","Result Managment","","","result by job application",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","20","GetLinked Collection","Assessment as a service","Video Interview","","","Individual candidate result detail",""
+"passed","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","144","GetLinked Collection","Job","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","","","post a comment",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","47","GetLinked Collection","Job","JOB PIPELINE","","","candidate_job_application_progression",""
+"broken","Fri Oct 18 18:53:03 GMT 2024","Fri Oct 18 18:53:03 GMT 2024","21","GetLinked Collection","Assessment as a service","Video Interview","","","accept interview invitation",""
+"passed","Fri Oct 18 18:52:53 GMT 2024","Fri Oct 18 18:52:53 GMT 2024","213","GetLinked Collection","Assessment as a service","Result Managment","","","edit comment",""
+"passed","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","188","GetLinked Collection","Assessment as a service","Test","","","fetch all tests",""
+"passed","Fri Oct 18 18:52:21 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","56","GetLinked Collection","AUTHENTICATION Copy","","","","resend_talent_email_verification_code",""
+"passed","Fri Oct 18 18:52:54 GMT 2024","Fri Oct 18 18:52:55 GMT 2024","930","GetLinked Collection","Assessment as a service","Question Pack","","","Create Question Pack",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","41","GetLinked Collection","Job","JOB PIPELINE","","","update percentage match score",""
+"passed","Fri Oct 18 18:52:57 GMT 2024","Fri Oct 18 18:52:58 GMT 2024","1091","GetLinked Collection","Assessment as a service","Video Interview","","","create interview pack",""
+"passed","Fri Oct 18 18:52:58 GMT 2024","Fri Oct 18 18:52:58 GMT 2024","125","GetLinked Collection","Assessment as a service","Video Interview","","","delete question in interview pack",""
+"broken","Fri Oct 18 18:53:04 GMT 2024","Fri Oct 18 18:53:04 GMT 2024","17","GetLinked Collection","Assessment as a service","Video Interview","","","submit interview",""
+"failed","Fri Oct 18 18:52:20 GMT 2024","Fri Oct 18 18:52:21 GMT 2024","57","GetLinked Collection","AUTHENTICATION Copy","Register","","","empty fields - register",""
+"broken","Fri Oct 18 18:52:24 GMT 2024","Fri Oct 18 18:52:24 GMT 2024","26","GetLinked Collection","Assessment as a service","Invitation","","","Job pipeline invitation",""
+"broken","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","105","GetLinked Collection","Job","JOB PIPELINE","","","export pipeline stage",""
+"broken","Fri Oct 18 18:52:23 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","115","GetLinked Collection","Assessment as a service","Assessment","","","add selected questions",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:23 GMT 2024","93","GetLinked Collection","Assessment as a service","Assessment","","","filter test recommendations",""
+"passed","Fri Oct 18 18:52:22 GMT 2024","Fri Oct 18 18:52:22 GMT 2024","133","GetLinked Collection","Assessment as a service","Assessment > Role","","","create role",""
+"passed","Fri Oct 18 18:52:25 GMT 2024","Fri Oct 18 18:52:25 GMT 2024","192","GetLinked Collection","Assessment as a service","Take Assessment","","","submit assessment",""
+"passed","Fri Oct 18 18:53:06 GMT 2024","Fri Oct 18 18:53:06 GMT 2024","59","GetLinked Collection","Job","","","","create_job","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"passed","Fri Oct 18 18:52:27 GMT 2024","Fri Oct 18 18:52:28 GMT 2024","351","GetLinked Collection","Assessment as a service","Result Managment","","","export assessment report",""
+"passed","Fri Oct 18 18:53:07 GMT 2024","Fri Oct 18 18:53:07 GMT 2024","129","GetLinked Collection","Job","","","","filter jobs",""
