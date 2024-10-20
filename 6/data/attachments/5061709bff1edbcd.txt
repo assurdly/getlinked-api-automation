@@ -1,0 +1,10 @@
+{
+    "first_name": "Kaylie",
+    "last_name": "Stiedemann",
+    "email": "Danika_Grant@yahoo.com",
+    "phone_number": "08049936121",
+    "date_of_birth": "1995-12-12",
+    "gender": "M",
+    "password": "Alliswell2012$",
+    "confirm_password": "Alliswell2012$"
+}
