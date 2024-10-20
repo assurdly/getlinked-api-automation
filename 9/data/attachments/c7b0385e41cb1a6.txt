@@ -1,0 +1,10 @@
+{
+    "first_name": "Malcolm",
+    "last_name": "Littel",
+    "email": "Ludwig.Jacobs14@yahoo.com",
+    "phone_number": "+23408039095067",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

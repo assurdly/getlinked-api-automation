@@ -1,0 +1,8 @@
+{
+  "responsibilities": "Design, develop, and maintain software applications.",
+  "qualifications": "Bachelor's degree in Computer Science or a related field.",
+  "requirements": "Proficiency in Python, Django, and REST APIs.",
+  "compulsory_requirements": "3+ years of professional experience.",
+  "exclusion_list": null,
+  "benefits": ["Health insurance", "401k match", "Remote flexibility"]
+}

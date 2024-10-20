@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Malcolm","middle_name":null,"last_name":"Littel","email":"Ludwig.Jacobs14@yahoo.com","phone_number":"+2348039095067","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
