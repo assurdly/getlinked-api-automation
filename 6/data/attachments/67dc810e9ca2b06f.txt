@@ -1,0 +1,10 @@
+{
+    "first_name": "Arno",
+    "last_name": "Legros",
+    "email": "Jeff51@hotmail.com",
+    "phone_number": "08070867915",
+    "date_of_birth": "1995-12-12",
+    "gender": "M",
+    "password": "Alliswell2012$",
+    "confirm_password": "Alliswell2012$"
+}
