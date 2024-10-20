@@ -1,0 +1,1 @@
+[{"id":"8c956dac-5d21-406e-acf2-4b4236ebc7d3","name":"Network Security Assessment 2","no_candidates":0,"completed":[],"ongoing":[],"not_started":[],"created_at":"2024-10-20T20:41:40.723590+01:00","deadline":null,"is_published":false,"candidates_data":[]}]

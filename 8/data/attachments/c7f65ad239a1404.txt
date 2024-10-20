@@ -1,0 +1,1 @@
+[{"id":"4a1667dd-2b49-4b27-b6af-e6957a6ee4bb","job_application":1,"recruiter":11,"recruiter_name":"Mide Mide","timestamp":"2024-10-20T20:39:29.155662+01:00","text":"This is a test comment","rating":3.0}]
