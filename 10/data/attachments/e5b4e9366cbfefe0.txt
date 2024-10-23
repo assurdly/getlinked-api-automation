@@ -1,0 +1,10 @@
+{
+    "first_name": "Susana",
+    "last_name": "Heathcote",
+    "email": "ibejihdaniel@gmail.com",
+    "phone_number": "+23408057194197",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

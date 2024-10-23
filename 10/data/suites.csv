@@ -1,0 +1,535 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 23 18:38:29 GMT 2024","Wed Oct 23 18:38:29 GMT 2024","213","GetLinked-Recruiter","AUTHENTICATION","Register","","","Mismatched Password - register",""
+"passed","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","345","GetLinked-Recruiter","CV Review as a service","","","","cv review",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","223","GetLinked-Recruiter","Services","CV PARSER > Group","","","fetch filtered group with no pagination",""
+"passed","Wed Oct 23 18:41:07 GMT 2024","Wed Oct 23 18:41:07 GMT 2024","231","GetLinked-Recruiter","Assessment as a service","Take Assessment","","","candidate answer",""
+"broken","Wed Oct 23 18:41:46 GMT 2024","Wed Oct 23 18:41:46 GMT 2024","9","GetLinked-Recruiter","CV Review as a service","","","","fetch cv group data",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","228","GetLinked-Recruiter","Services","CV PARSER > Group","","","fetch filtered group",""
+"passed","Wed Oct 23 18:38:38 GMT 2024","Wed Oct 23 18:38:38 GMT 2024","123","GetLinked-Recruiter","AUTHENTICATION","Login","","","Empty fields - login",""
+"failed","Wed Oct 23 18:39:02 GMT 2024","Wed Oct 23 18:39:02 GMT 2024","355","GetLinked-Recruiter","Company","Create Company","","","create company-No logo",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","21","GetLinked-Recruiter","Assessment as a service","Video Interview","","","assessment interview detail",""
+"passed","Wed Oct 23 18:41:07 GMT 2024","Wed Oct 23 18:41:07 GMT 2024","173","GetLinked-Recruiter","Assessment as a service","Take Assessment","","","submit assessment",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","203","GetLinked-Recruiter","Services","CV PARSER","","","fetch data","Filter Params
+
+- role (can be a single string or comma seperated strings)
+- group (string)
+- industry (can be a single string or comma seperated strings)
+- skills (can be a single string or comma seperated strings)
+- years_of_experience (string)
+- location (can be a single string or comma seperated strings)
+- education (can be a single string or comma seperated strings)
+- language (can be a single string or comma seperated strings)
+    
+- keywords_percentage (comma seperated int values. e.g keywords_percentage=20,75)"
+"broken","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","19","GetLinked-Recruiter","Assessment as a service","Result Managment","","","result by job application",""
+"passed","Wed Oct 23 18:41:16 GMT 2024","Wed Oct 23 18:41:16 GMT 2024","175","GetLinked-Recruiter","Assessment as a service","Result Managment","","","export candidate result",""
+"passed","Wed Oct 23 18:39:23 GMT 2024","Wed Oct 23 18:39:24 GMT 2024","184","GetLinked-Recruiter","Company","Get all companies","","","fetch_all_companies-No Auth",""
+"passed","Wed Oct 23 18:41:28 GMT 2024","Wed Oct 23 18:41:28 GMT 2024","216","GetLinked-Recruiter","Assessment as a service","Video Interview","","","create interview pack",""
+"failed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","221","GetLinked-Recruiter","AUTHENTICATION","Change password","","","Empty fields - change_password",""
+"passed","Wed Oct 23 18:41:28 GMT 2024","Wed Oct 23 18:41:29 GMT 2024","393","GetLinked-Recruiter","Assessment as a service","Video Interview","","","delete question in interview pack",""
+"passed","Wed Oct 23 18:41:48 GMT 2024","Wed Oct 23 18:41:48 GMT 2024","209","GetLinked-Recruiter","Services","CV PARSER","","","filter values",""
+"passed","Wed Oct 23 18:39:40 GMT 2024","Wed Oct 23 18:39:40 GMT 2024","168","GetLinked-Recruiter","Recruiter","","","","upload job description",""
+"passed","Wed Oct 23 18:40:48 GMT 2024","Wed Oct 23 18:40:49 GMT 2024","769","GetLinked-Recruiter","Assessment as a service","Assessment","","","edit section in assessment",""
+"passed","Wed Oct 23 18:38:29 GMT 2024","Wed Oct 23 18:38:29 GMT 2024","125","GetLinked-Recruiter","AUTHENTICATION","Register","","","empty fields - register",""
+"broken","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","18","GetLinked-Recruiter","Job","JOB PIPELINE","","","export pipeline stage",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","20","GetLinked-Recruiter","Assessment as a service","Video Interview","","","mark interview as started",""
+"passed","Wed Oct 23 18:41:26 GMT 2024","Wed Oct 23 18:41:27 GMT 2024","153","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Upload Bulk Questions",""
+"failed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","104","GetLinked-Recruiter","AUTHENTICATION","Update_account_details","","","Empty field - update_account_details",""
+"passed","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","178","GetLinked-Recruiter","Job","JOB PIPELINE","","","recruiter pipelines",""
+"passed","Wed Oct 23 18:38:30 GMT 2024","Wed Oct 23 18:38:30 GMT 2024","156","GetLinked-Recruiter","AUTHENTICATION","Register","","","Invalid email - register",""
+"passed","Wed Oct 23 18:41:39 GMT 2024","Wed Oct 23 18:41:39 GMT 2024","209","GetLinked-Recruiter","CV Review as a service","","","","partial update on cv review data",""
+"passed","Wed Oct 23 18:41:18 GMT 2024","Wed Oct 23 18:41:19 GMT 2024","298","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Create Question Pack",""
+"failed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","104","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","Password complexity - password_reset",""
+"failed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","147","GetLinked-Recruiter","AUTHENTICATION","Get_user_details","","","get_user_details",""
+"broken","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","22","GetLinked-Recruiter","Assessment as a service","Video Interview","","","Individual candidate result detail",""
+"passed","Wed Oct 23 18:41:27 GMT 2024","Wed Oct 23 18:41:27 GMT 2024","203","GetLinked-Recruiter","Assessment as a service","Question Pack","","","edit question in pack",""
+"failed","Wed Oct 23 18:38:30 GMT 2024","Wed Oct 23 18:38:30 GMT 2024","287","GetLinked-Recruiter","AUTHENTICATION","Verify account","","","verify_account",""
+"broken","Wed Oct 23 18:41:28 GMT 2024","Wed Oct 23 18:41:28 GMT 2024","21","GetLinked-Recruiter","Assessment as a service","Video Interview > invitation","","","invite external",""
+"passed","Wed Oct 23 18:40:47 GMT 2024","Wed Oct 23 18:40:47 GMT 2024","230","GetLinked-Recruiter","Assessment as a service","Assessment","","","delete an assessment",""
+"failed","Wed Oct 23 18:38:21 GMT 2024","Wed Oct 23 18:38:29 GMT 2024","7934","GetLinked-Recruiter","AUTHENTICATION","Register","","","Password complexity - register",""
+"passed","Wed Oct 23 18:40:22 GMT 2024","Wed Oct 23 18:40:22 GMT 2024","101","GetLinked-Recruiter","Job","Fetch Industries","","","fetch industries",""
+"broken","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","23","GetLinked-Recruiter","Assessment as a service","Result Managment","","","candidate answers",""
+"failed","Wed Oct 23 18:39:06 GMT 2024","Wed Oct 23 18:39:11 GMT 2024","4740","GetLinked-Recruiter","Company","Get Company","","","companies",""
+"failed","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:40:08 GMT 2024","11861","GetLinked-Recruiter","Job","Create job","","","create_job","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"failed","Wed Oct 23 18:40:09 GMT 2024","Wed Oct 23 18:40:09 GMT 2024","195","GetLinked-Recruiter","Job","Create job","","","create_job-Invalid deadline date","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"passed","Wed Oct 23 18:38:30 GMT 2024","Wed Oct 23 18:38:31 GMT 2024","113","GetLinked-Recruiter","AUTHENTICATION","Verify account","","","Invalid Recipient - verify_account",""
+"passed","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","212","GetLinked-Recruiter","Job","JOB PIPELINE","","","update job pipeline",""
+"failed","Wed Oct 23 18:39:04 GMT 2024","Wed Oct 23 18:39:04 GMT 2024","273","GetLinked-Recruiter","Company","Create personal company","","","create a personal company-Invalid  type of company",""
+"broken","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","18","GetLinked-Recruiter","Assessment as a service","Video Interview","","","pagination - candidate result",""
+"passed","Wed Oct 23 18:41:07 GMT 2024","Wed Oct 23 18:41:07 GMT 2024","164","GetLinked-Recruiter","Assessment as a service","Take Assessment","","","mark as started",""
+"passed","Wed Oct 23 18:38:35 GMT 2024","Wed Oct 23 18:38:36 GMT 2024","111","GetLinked-Recruiter","AUTHENTICATION","resend registarion otp","","","No email - resend registarion otp",""
+"passed","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","517","GetLinked-Recruiter","Assessment as a service","Video Interview","","","ID verification",""
+"passed","Wed Oct 23 18:41:27 GMT 2024","Wed Oct 23 18:41:27 GMT 2024","262","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Add question pack to section",""
+"broken","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","19","GetLinked-Recruiter","Assessment as a service","Dashboards","","","remove candidate",""
+"broken","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","30","GetLinked-Recruiter","Job","JOB PIPELINE","","","create and add stages to pipeline",""
+"failed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","101","GetLinked-Recruiter","AUTHENTICATION","Update_account_details","","","Invalid middle name - update_account_details",""
+"failed","Wed Oct 23 18:39:02 GMT 2024","Wed Oct 23 18:39:03 GMT 2024","363","GetLinked-Recruiter","Company","Create Company","","","create company-Empty fields",""
+"passed","Wed Oct 23 18:41:29 GMT 2024","Wed Oct 23 18:41:36 GMT 2024","7230","GetLinked-Recruiter","Assessment as a service","Video Interview","","","retrieve an interview pack",""
+"passed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","149","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","Invalid OTP - password_reset",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","20","GetLinked-Recruiter","Assessment as a service","Video Interview","","","accept interview invitation",""
+"broken","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","60","GetLinked-Recruiter","Job","JOB PIPELINE","","","create a custom job pipeline",""
+"failed","Wed Oct 23 18:40:37 GMT 2024","Wed Oct 23 18:40:37 GMT 2024","192","GetLinked-Recruiter","Job","delete_job","","","delete job-Invalid ID",""
+"passed","Wed Oct 23 18:39:42 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","12084","GetLinked-Recruiter","Job","JOB PIPELINE > Create a default job","","","create a default job pipeline",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:39 GMT 2024","221","GetLinked-Recruiter","Assessment as a service","Assessment > Role","","","fetch all roles",""
+"passed","Wed Oct 23 18:39:55 GMT 2024","Wed Oct 23 18:39:55 GMT 2024","197","GetLinked-Recruiter","Job","JOB PIPELINE","","","delete a pipeline stage",""
+"failed","Wed Oct 23 18:40:37 GMT 2024","Wed Oct 23 18:40:37 GMT 2024","185","GetLinked-Recruiter","Job","delete_job","","","delete job-Inexisting job",""
+"passed","Wed Oct 23 18:41:46 GMT 2024","Wed Oct 23 18:41:46 GMT 2024","271","GetLinked-Recruiter","CV Review as a service","","","","update password",""
+"passed","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","214","GetLinked-Recruiter","Job","JOB PIPELINE","","","candidate_job_application_progression",""
+"passed","Wed Oct 23 18:40:56 GMT 2024","Wed Oct 23 18:40:56 GMT 2024","643","GetLinked-Recruiter","Assessment as a service","Test","","","fetch all tests",""
+"passed","Wed Oct 23 18:40:09 GMT 2024","Wed Oct 23 18:40:09 GMT 2024","119","GetLinked-Recruiter","Job","Update job","","","job update-Invalid Token","Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)"
+"failed","Wed Oct 23 18:39:04 GMT 2024","Wed Oct 23 18:39:05 GMT 2024","565","GetLinked-Recruiter","Company","Create personal company","","","create a personal company-Existing Company",""
+"passed","Wed Oct 23 18:41:36 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","197","GetLinked-Recruiter","Assessment as a service","Video Interview","","","list questions in an interview pack",""
+"passed","Wed Oct 23 18:41:27 GMT 2024","Wed Oct 23 18:41:28 GMT 2024","624","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Edit question pack",""
+"passed","Wed Oct 23 18:40:37 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","203","GetLinked-Recruiter","Assessment as a service","Assessment Section","","","Create Section",""
+"passed","Wed Oct 23 18:39:41 GMT 2024","Wed Oct 23 18:39:42 GMT 2024","423","GetLinked-Recruiter","Job","JOB PIPELINE > Comment > Delete Comment","","","delete a comment",""
+"passed","Wed Oct 23 18:39:40 GMT 2024","Wed Oct 23 18:39:40 GMT 2024","108","GetLinked-Recruiter","Recruiter","","","","invite_team_member",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","101","GetLinked-Recruiter","Assessment as a service","Video Interview","","","candidate answer",""
+"failed","Wed Oct 23 18:40:37 GMT 2024","Wed Oct 23 18:40:37 GMT 2024","211","GetLinked-Recruiter","Job","delete_job","","","delete job-No ID",""
+"broken","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","20","GetLinked-Recruiter","Assessment as a service","Dashboards","","","assessment detail",""
+"failed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","105","GetLinked-Recruiter","AUTHENTICATION","Update_account_details","","","update_account_details",""
+"passed","Wed Oct 23 18:39:40 GMT 2024","Wed Oct 23 18:39:41 GMT 2024","291","GetLinked-Recruiter","Job","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","","","post a comment",""
+"failed","Wed Oct 23 18:39:03 GMT 2024","Wed Oct 23 18:39:04 GMT 2024","212","GetLinked-Recruiter","Company","Create personal company","","","create a personal company",""
+"broken","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:56 GMT 2024","326","GetLinked-Recruiter","Assessment as a service","Test","","","get a test",""
+"passed","Wed Oct 23 18:39:38 GMT 2024","Wed Oct 23 18:39:38 GMT 2024","399","GetLinked-Recruiter","Recruiter","","","","fetch recruiters",""
+"failed","Wed Oct 23 18:38:29 GMT 2024","Wed Oct 23 18:38:30 GMT 2024","211","GetLinked-Recruiter","AUTHENTICATION","Register","","","Invalid name - register",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","161","GetLinked-Recruiter","Assessment as a service","Assessment Section","","","Delete a Section",""
+"passed","Wed Oct 23 18:39:38 GMT 2024","Wed Oct 23 18:39:38 GMT 2024","108","GetLinked-Recruiter","Recruiter","","","","create personal recruirer","Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY"
+"passed","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","105","GetLinked-Recruiter","Job","JOB PIPELINE","","","get job pipeline",""
+"failed","Wed Oct 23 18:39:01 GMT 2024","Wed Oct 23 18:39:01 GMT 2024","212","GetLinked-Recruiter","AUTHENTICATION","Refresh token","","","refresh token",""
+"passed","Wed Oct 23 18:40:23 GMT 2024","Wed Oct 23 18:40:24 GMT 2024","237","GetLinked-Recruiter","Job","fetch_job_applications","","","fetch_job_applications_in_job-Invalid job unique ID",""
+"passed","Wed Oct 23 18:39:39 GMT 2024","Wed Oct 23 18:39:40 GMT 2024","194","GetLinked-Recruiter","Recruiter","","","","delete recruiter",""
+"passed","Wed Oct 23 18:39:55 GMT 2024","Wed Oct 23 18:39:55 GMT 2024","222","GetLinked-Recruiter","Job","JOB PIPELINE","","","re arrange job pipeline",""
+"failed","Wed Oct 23 18:39:02 GMT 2024","Wed Oct 23 18:39:02 GMT 2024","203","GetLinked-Recruiter","Company","Create Company","","","create company",""
+"passed","Wed Oct 23 18:39:01 GMT 2024","Wed Oct 23 18:39:01 GMT 2024","115","GetLinked-Recruiter","AUTHENTICATION","Refresh token","","","Invalid token - refresh token",""
+"passed","Wed Oct 23 18:41:07 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","268","GetLinked-Recruiter","Assessment as a service","Dashboards","","","My assessments",""
+"passed","Wed Oct 23 18:38:30 GMT 2024","Wed Oct 23 18:38:30 GMT 2024","108","GetLinked-Recruiter","AUTHENTICATION","Verify account","","","Empty fields - verify_account",""
+"failed","Wed Oct 23 18:39:03 GMT 2024","Wed Oct 23 18:39:03 GMT 2024","203","GetLinked-Recruiter","Company","Create Company","","","create company-Existing Company",""
+"passed","Wed Oct 23 18:38:36 GMT 2024","Wed Oct 23 18:38:38 GMT 2024","2627","GetLinked-Recruiter","AUTHENTICATION","Login","","","login",""
+"passed","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","278","GetLinked-Recruiter","Assessment as a service","Dashboards","","","My Candidates",""
+"passed","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:39 GMT 2024","374","GetLinked-Recruiter","CV Review as a service","","","","fetch paid cv rewriter data",""
+"failed","Wed Oct 23 18:40:24 GMT 2024","Wed Oct 23 18:40:24 GMT 2024","362","GetLinked-Recruiter","Job","Filter jobs","","","filter jobs",""
+"passed","Wed Oct 23 18:40:47 GMT 2024","Wed Oct 23 18:40:48 GMT 2024","256","GetLinked-Recruiter","Assessment as a service","Assessment","","","update assessment",""
+"passed","Wed Oct 23 18:39:03 GMT 2024","Wed Oct 23 18:39:03 GMT 2024","212","GetLinked-Recruiter","Company","Create Company","","","create company-Invalid Token",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","84","GetLinked-Recruiter","Assessment as a service","Video Interview","","","create assessment interview",""
+"passed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","107","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","Invalid email - password_reset",""
+"passed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","98","GetLinked-Recruiter","AUTHENTICATION","Update_account_details","","","No auth - update_account_details",""
+"passed","Wed Oct 23 18:41:46 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","98","GetLinked-Recruiter","Services","CV PARSER > Group","","","fetch groups",""
+"passed","Wed Oct 23 18:41:06 GMT 2024","Wed Oct 23 18:41:06 GMT 2024","243","GetLinked-Recruiter","Assessment as a service","Invitation","","","additional invite",""
+"failed","Wed Oct 23 18:40:31 GMT 2024","Wed Oct 23 18:40:31 GMT 2024","158","GetLinked-Recruiter","Job","get job details","","","get job details",""
+"passed","Wed Oct 23 18:40:39 GMT 2024","Wed Oct 23 18:40:39 GMT 2024","211","GetLinked-Recruiter","Assessment as a service","Assessment > Role","","","create role",""
+"passed","Wed Oct 23 18:39:24 GMT 2024","Wed Oct 23 18:39:34 GMT 2024","10099","GetLinked-Recruiter","Recruiter","","","","Get Token",""
+"broken","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","52","GetLinked-Recruiter","Assessment as a service","Proctoring","","","proctoring report",""
+"broken","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","180","GetLinked-Recruiter","CV Review as a service","","","","download cover letter",""
+"passed","Wed Oct 23 18:41:19 GMT 2024","Wed Oct 23 18:41:21 GMT 2024","1925","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Delete Question in Pack",""
+"passed","Wed Oct 23 18:39:34 GMT 2024","Wed Oct 23 18:39:36 GMT 2024","1729","GetLinked-Recruiter","Recruiter","","","","Create HR-Valid details","Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY"
+"failed","Wed Oct 23 18:39:05 GMT 2024","Wed Oct 23 18:39:05 GMT 2024","318","GetLinked-Recruiter","Company","Create personal company","","","create a personal company-No Logo",""
+"failed","Wed Oct 23 18:40:09 GMT 2024","Wed Oct 23 18:40:09 GMT 2024","237","GetLinked-Recruiter","Job","Update job","","","job update","Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)"
+"broken","Wed Oct 23 18:41:46 GMT 2024","Wed Oct 23 18:41:46 GMT 2024","15","GetLinked-Recruiter","CV Review as a service","","","","update recommendation data","fields:
+
+- contact_infornation_recommendation
+    
+- summary_recommendation
+    
+- experience_recommendation
+    
+- education_recommendation
+    
+- skills_recommendation
+    
+- certification_recommendation
+    
+- projects_recommendation
+    
+- awards_recommendation
+    
+- professional_memberships_recommendation
+    
+- languages_recommendation
+    
+- role_and_responsibilities_recommendation
+    
+- achievement_and_accoplishments_recommendation"
+"passed","Wed Oct 23 18:39:36 GMT 2024","Wed Oct 23 18:39:36 GMT 2024","760","GetLinked-Recruiter","Recruiter","","","","Create HR-Empty field","Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY"
+"broken","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","30","GetLinked-Recruiter","Assessment as a service","Assessment","","","add selected questions",""
+"passed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","106","GetLinked-Recruiter","AUTHENTICATION","Forgot password","","","Empty field - Forgot_password",""
+"passed","Wed Oct 23 18:38:31 GMT 2024","Wed Oct 23 18:38:31 GMT 2024","503","GetLinked-Recruiter","AUTHENTICATION","resend registarion otp","","","resend registarion otp",""
+"failed","Wed Oct 23 18:40:09 GMT 2024","Wed Oct 23 18:40:10 GMT 2024","221","GetLinked-Recruiter","Job","Update job","","","job update-Empty fileds","Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)"
+"passed","Wed Oct 23 18:41:18 GMT 2024","Wed Oct 23 18:41:18 GMT 2024","614","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Get Question Pack Details",""
+"passed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:00 GMT 2024","103","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","Mismatched password - password_reset",""
+"passed","Wed Oct 23 18:40:48 GMT 2024","Wed Oct 23 18:40:48 GMT 2024","245","GetLinked-Recruiter","Assessment as a service","Assessment","","","add section to assessment",""
+"passed","Wed Oct 23 18:40:09 GMT 2024","Wed Oct 23 18:40:09 GMT 2024","106","GetLinked-Recruiter","Job","Create job","","","create_job-Invalid Token","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"passed","Wed Oct 23 18:41:16 GMT 2024","Wed Oct 23 18:41:16 GMT 2024","235","GetLinked-Recruiter","Assessment as a service","Result Managment","","","get result overview",""
+"broken","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","89","GetLinked-Recruiter","Job","JOB PIPELINE","","","job application pipeline details",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","174","GetLinked-Recruiter","Assessment as a service","Assessment Section","","","fetch all Sections",""
+"passed","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:54 GMT 2024","206","GetLinked-Recruiter","Job","JOB PIPELINE","","","delete pipeline",""
+"passed","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","222","GetLinked-Recruiter","Assessment as a service","Result Managment","","","get comments on a result",""
+"passed","Wed Oct 23 18:40:50 GMT 2024","Wed Oct 23 18:40:54 GMT 2024","4582","GetLinked-Recruiter","Assessment as a service","Assessment","","","remove section from assessment",""
+"passed","Wed Oct 23 18:39:39 GMT 2024","Wed Oct 23 18:39:39 GMT 2024","231","GetLinked-Recruiter","Recruiter","","","","get recruiter",""
+"failed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","272","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","password_reset",""
+"passed","Wed Oct 23 18:41:16 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","164","GetLinked-Recruiter","Assessment as a service","Result Managment","","","export assessment report",""
+"passed","Wed Oct 23 18:39:05 GMT 2024","Wed Oct 23 18:39:06 GMT 2024","1038","GetLinked-Recruiter","Company","Create personal company","","","create a personal company-Invalid Token",""
+"passed","Wed Oct 23 18:40:48 GMT 2024","Wed Oct 23 18:40:48 GMT 2024","250","GetLinked-Recruiter","Assessment as a service","Assessment","","","get test recommendations",""
+"passed","Wed Oct 23 18:39:41 GMT 2024","Wed Oct 23 18:39:41 GMT 2024","305","GetLinked-Recruiter","Job","JOB PIPELINE > Comment > Update a comment","","","edit comment",""
+"passed","Wed Oct 23 18:39:02 GMT 2024","Wed Oct 23 18:39:02 GMT 2024","150","GetLinked-Recruiter","Company","company email","","","verify_email",""
+"passed","Wed Oct 23 18:40:32 GMT 2024","Wed Oct 23 18:40:32 GMT 2024","287","GetLinked-Recruiter","Job","track_job_view","","","track_job_view-Invalid job unique_id",""
+"passed","Wed Oct 23 18:38:30 GMT 2024","Wed Oct 23 18:38:30 GMT 2024","206","GetLinked-Recruiter","AUTHENTICATION","Verify account","","","Invalid OTP - verify_account",""
+"passed","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:18 GMT 2024","230","GetLinked-Recruiter","Assessment as a service","Question Pack","","","List Question Packs",""
+"failed","Wed Oct 23 18:38:29 GMT 2024","Wed Oct 23 18:38:29 GMT 2024","225","GetLinked-Recruiter","AUTHENTICATION","Register","","","register",""
+"passed","Wed Oct 23 18:39:38 GMT 2024","Wed Oct 23 18:39:39 GMT 2024","358","GetLinked-Recruiter","Recruiter","","","","fetch recruiters - Fetch data",""
+"passed","Wed Oct 23 18:39:00 GMT 2024","Wed Oct 23 18:39:01 GMT 2024","119","GetLinked-Recruiter","AUTHENTICATION","Get_user_details","","","No Auth - get_user_details",""
+"passed","Wed Oct 23 18:38:50 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","8985","GetLinked-Recruiter","AUTHENTICATION","Forgot password","","","Forgot_password",""
+"failed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","173","GetLinked-Recruiter","AUTHENTICATION","Change password","","","Mismatched password - change_password",""
+"passed","Wed Oct 23 18:40:39 GMT 2024","Wed Oct 23 18:40:39 GMT 2024","189","GetLinked-Recruiter","Assessment as a service","Assessment > Role","","","get a single role",""
+"passed","Wed Oct 23 18:41:28 GMT 2024","Wed Oct 23 18:41:28 GMT 2024","226","GetLinked-Recruiter","Assessment as a service","Video Interview","","","list interview packs",""
+"passed","Wed Oct 23 18:40:22 GMT 2024","Wed Oct 23 18:40:22 GMT 2024","189","GetLinked-Recruiter","Job","Fetch jobs","","","fetch jobs",""
+"failed","Wed Oct 23 18:40:30 GMT 2024","Wed Oct 23 18:40:30 GMT 2024","232","GetLinked-Recruiter","Job","Filter jobs","","","filter jobs-Invalid status",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","98","GetLinked-Recruiter","Services","CV PARSER > Group","","","create group",""
+"passed","Wed Oct 23 18:39:55 GMT 2024","Wed Oct 23 18:39:55 GMT 2024","220","GetLinked-Recruiter","Job","JOB PIPELINE","","","bulk update",""
+"passed","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","269","GetLinked-Recruiter","Assessment as a service","Assessment","","","add question",""
+"passed","Wed Oct 23 18:41:38 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","221","GetLinked-Recruiter","CV Review as a service","","","","cv review data test",""
+"passed","Wed Oct 23 18:39:39 GMT 2024","Wed Oct 23 18:39:39 GMT 2024","343","GetLinked-Recruiter","Recruiter","","","","fetch recruiters - With invalid token",""
+"passed","Wed Oct 23 18:41:39 GMT 2024","Wed Oct 23 18:41:39 GMT 2024","281","GetLinked-Recruiter","CV Review as a service","","","","delete education details from revamped cv data",""
+"passed","Wed Oct 23 18:40:54 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","228","GetLinked-Recruiter","Assessment as a service","Assessment","","","retreive an assessment",""
+"passed","Wed Oct 23 18:39:01 GMT 2024","Wed Oct 23 18:39:02 GMT 2024","106","GetLinked-Recruiter","AUTHENTICATION","Refresh token","","","No token - refresh token",""
+"broken","Wed Oct 23 18:40:57 GMT 2024","Wed Oct 23 18:40:57 GMT 2024","95","GetLinked-Recruiter","Assessment as a service","Invitation","","","invite candidates viia invite document",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","194","GetLinked-Recruiter","Assessment as a service","Assessment Section Copy","","","fetch all Sections",""
+"passed","Wed Oct 23 18:39:01 GMT 2024","Wed Oct 23 18:39:01 GMT 2024","518","GetLinked-Recruiter","AUTHENTICATION","Has updated password","","","has updated password Copy",""
+"passed","Wed Oct 23 18:39:41 GMT 2024","Wed Oct 23 18:39:41 GMT 2024","432","GetLinked-Recruiter","Job","JOB PIPELINE > Comment > Comment on an applicant","","","get comments on an applicant",""
+"passed","Wed Oct 23 18:40:49 GMT 2024","Wed Oct 23 18:40:50 GMT 2024","363","GetLinked-Recruiter","Assessment as a service","Assessment","","","Delete question from section",""
+"passed","Wed Oct 23 18:39:54 GMT 2024","Wed Oct 23 18:39:55 GMT 2024","287","GetLinked-Recruiter","Job","JOB PIPELINE","","","update stages",""
+"failed","Wed Oct 23 18:40:33 GMT 2024","Wed Oct 23 18:40:37 GMT 2024","3976","GetLinked-Recruiter","Job","delete_job","","","delete job",""
+"passed","Wed Oct 23 18:40:30 GMT 2024","Wed Oct 23 18:40:31 GMT 2024","98","GetLinked-Recruiter","Job","Filter jobs","","","filter jobs-Invalid Token",""
+"passed","Wed Oct 23 18:38:29 GMT 2024","Wed Oct 23 18:38:29 GMT 2024","179","GetLinked-Recruiter","AUTHENTICATION","Register","","","already existing user - register",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","231","GetLinked-Recruiter","Assessment as a service","Assessment Section Copy","","","Create Section",""
+"failed","Wed Oct 23 18:38:31 GMT 2024","Wed Oct 23 18:38:32 GMT 2024","484","GetLinked-Recruiter","AUTHENTICATION","resend registarion otp","","","Invalid email - resend registarion otp",""
+"passed","Wed Oct 23 18:40:56 GMT 2024","Wed Oct 23 18:40:57 GMT 2024","221","GetLinked-Recruiter","Assessment as a service","Question","","","retrieve question",""
+"passed","Wed Oct 23 18:40:48 GMT 2024","Wed Oct 23 18:40:48 GMT 2024","401","GetLinked-Recruiter","Assessment as a service","Assessment","","","filter test recommendations",""
+"passed","Wed Oct 23 18:40:24 GMT 2024","Wed Oct 23 18:40:24 GMT 2024","133","GetLinked-Recruiter","Job","fetch_job_applications","","","fetch_job_applications_in_job-Invalid Token",""
+"passed","Wed Oct 23 18:38:32 GMT 2024","Wed Oct 23 18:38:35 GMT 2024","3901","GetLinked-Recruiter","AUTHENTICATION","resend registarion otp","","","Nonexisting email - resend registarion otp",""
+"passed","Wed Oct 23 18:41:39 GMT 2024","Wed Oct 23 18:41:39 GMT 2024","249","GetLinked-Recruiter","CV Review as a service","","","","update education in revamped cv",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","104","GetLinked-Recruiter","Services","CV PARSER","","","multiple_cv_upload",""
+"failed","Wed Oct 23 18:40:10 GMT 2024","Wed Oct 23 18:40:10 GMT 2024","204","GetLinked-Recruiter","Job","Update job","","","job update-No ID","Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)"
+"passed","Wed Oct 23 18:39:01 GMT 2024","Wed Oct 23 18:39:01 GMT 2024","103","GetLinked-Recruiter","AUTHENTICATION","Has updated password","","","has updated password",""
+"passed","Wed Oct 23 18:39:55 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","91","GetLinked-Recruiter","Job","JOB PIPELINE","","","fetch my job pipelines",""
+"passed","Wed Oct 23 18:39:38 GMT 2024","Wed Oct 23 18:39:38 GMT 2024","110","GetLinked-Recruiter","Recruiter","","","","create agency recruiter","Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY"
+"passed","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","180","GetLinked-Recruiter","Assessment as a service","Result Managment","","","delete a comment",""
+"passed","Wed Oct 23 18:41:27 GMT 2024","Wed Oct 23 18:41:27 GMT 2024","181","GetLinked-Recruiter","Assessment as a service","Question Pack","","","list question pack questions",""
+"passed","Wed Oct 23 18:41:06 GMT 2024","Wed Oct 23 18:41:07 GMT 2024","182","GetLinked-Recruiter","Assessment as a service","Take Assessment","","","verify candidate",""
+"failed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","178","GetLinked-Recruiter","AUTHENTICATION","Change password","","","Valid duplicate - change_password",""
+"failed","Wed Oct 23 18:40:23 GMT 2024","Wed Oct 23 18:40:23 GMT 2024","146","GetLinked-Recruiter","Job","fetch_job_applications","","","fetch_job_applications_in_job",""
+"failed","Wed Oct 23 18:40:22 GMT 2024","Wed Oct 23 18:40:22 GMT 2024","103","GetLinked-Recruiter","Job","Generate role& responsibilities","","","generate role responsibilities-Empty fields",""
+"passed","Wed Oct 23 18:39:11 GMT 2024","Wed Oct 23 18:39:23 GMT 2024","12548","GetLinked-Recruiter","Company","Get all companies","","","fetch_all_companies",""
+"passed","Wed Oct 23 18:40:24 GMT 2024","Wed Oct 23 18:40:24 GMT 2024","135","GetLinked-Recruiter","Job","fetch_job_applications","","","fetch_job_applications_in_job-No ID",""
+"passed","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","251","GetLinked-Recruiter","Assessment as a service","Result Managment","","","post a comment",""
+"passed","Wed Oct 23 18:41:07 GMT 2024","Wed Oct 23 18:41:07 GMT 2024","201","GetLinked-Recruiter","Assessment as a service","Take Assessment","","","accept assessment invite",""
+"passed","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","239","GetLinked-Recruiter","Assessment as a service","Assessment","","","create question in question pack",""
+"passed","Wed Oct 23 18:40:24 GMT 2024","Wed Oct 23 18:40:30 GMT 2024","5968","GetLinked-Recruiter","Job","Filter jobs","","","filter jobs-empty Status",""
+"broken","Wed Oct 23 18:41:28 GMT 2024","Wed Oct 23 18:41:28 GMT 2024","11","GetLinked-Recruiter","Assessment as a service","Video Interview > invitation","","","invite for interview from assessment",""
+"passed","Wed Oct 23 18:39:40 GMT 2024","Wed Oct 23 18:39:40 GMT 2024","102","GetLinked-Recruiter","Recruiter","","","","accept_team_invite",""
+"failed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:50 GMT 2024","322","GetLinked-Recruiter","AUTHENTICATION","Change password","","","Password complexity- change_password",""
+"passed","Wed Oct 23 18:40:31 GMT 2024","Wed Oct 23 18:40:31 GMT 2024","136","GetLinked-Recruiter","Job","get job details","","","get job details-No ID",""
+"passed","Wed Oct 23 18:41:21 GMT 2024","Wed Oct 23 18:41:26 GMT 2024","5616","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Create Question in Question Pack",""
+"failed","Wed Oct 23 18:39:04 GMT 2024","Wed Oct 23 18:39:04 GMT 2024","279","GetLinked-Recruiter","Company","Create personal company","","","create a personal company-Empty fields",""
+"passed","Wed Oct 23 18:41:39 GMT 2024","Wed Oct 23 18:41:46 GMT 2024","6567","GetLinked-Recruiter","CV Review as a service","","","","update cv objective",""
+"broken","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","21","GetLinked-Recruiter","Job","JOB PIPELINE","","","upload bulk cv to pipeline",""
+"passed","Wed Oct 23 18:41:48 GMT 2024","Wed Oct 23 18:41:48 GMT 2024","193","GetLinked-Recruiter","Services","CV PARSER","","","export filtered cvs",""
+"passed","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","251","GetLinked-Recruiter","Job","JOB PIPELINE","","","update percentage match score",""
+"passed","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:48 GMT 2024","102","GetLinked-Recruiter","Services","CV PARSER","","","move parsed cv to a group",""
+"passed","Wed Oct 23 18:40:38 GMT 2024","Wed Oct 23 18:40:38 GMT 2024","146","GetLinked-Recruiter","Assessment as a service","Assessment Section Copy","","","Delete a Section",""
+"passed","Wed Oct 23 18:40:32 GMT 2024","Wed Oct 23 18:40:33 GMT 2024","583","GetLinked-Recruiter","Job","track_job_view","","","track_job_view-Empty field",""
+"failed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","142","GetLinked-Recruiter","AUTHENTICATION","Change password","","","change_password",""
+"passed","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:16 GMT 2024","7707","GetLinked-Recruiter","Assessment as a service","Proctoring","","","update proctoring report",""
+"passed","Wed Oct 23 18:39:40 GMT 2024","Wed Oct 23 18:39:40 GMT 2024","215","GetLinked-Recruiter","Recruiter","","","","verify company email",""
+"passed","Wed Oct 23 18:39:39 GMT 2024","Wed Oct 23 18:39:39 GMT 2024","199","GetLinked-Recruiter","Recruiter","","","","company recruiters",""
+"broken","Wed Oct 23 18:40:49 GMT 2024","Wed Oct 23 18:40:49 GMT 2024","166","GetLinked-Recruiter","Assessment as a service","Assessment","","","reorder-sections",""
+"passed","Wed Oct 23 18:40:39 GMT 2024","Wed Oct 23 18:40:47 GMT 2024","8005","GetLinked-Recruiter","Assessment as a service","Assessment","","","create an assessment",""
+"passed","Wed Oct 23 18:41:29 GMT 2024","Wed Oct 23 18:41:29 GMT 2024","466","GetLinked-Recruiter","Assessment as a service","Video Interview","","","create question in  interview pack",""
+"passed","Wed Oct 23 18:38:49 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","190","GetLinked-Recruiter","AUTHENTICATION","Change password","","","No Auth - change_password",""
+"passed","Wed Oct 23 18:41:19 GMT 2024","Wed Oct 23 18:41:19 GMT 2024","171","GetLinked-Recruiter","Assessment as a service","Question Pack","","","Add Question to a Pack",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","19","GetLinked-Recruiter","Assessment as a service","Video Interview","","","verify interview candidate",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:38 GMT 2024","21","GetLinked-Recruiter","Assessment as a service","Video Interview","","","submit interview",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","9","GetLinked-Recruiter","Assessment as a service","Video Interview","","","edit question in interview pack",""
+"passed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","108","GetLinked-Recruiter","AUTHENTICATION","Password Reset","","","Empty fields - password_reset",""
+"passed","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","248","GetLinked-Recruiter","Assessment as a service","Assessment","","","edit question in assessment",""
+"passed","Wed Oct 23 18:41:17 GMT 2024","Wed Oct 23 18:41:17 GMT 2024","189","GetLinked-Recruiter","Assessment as a service","Result Managment","","","edit comment",""
+"passed","Wed Oct 23 18:38:59 GMT 2024","Wed Oct 23 18:38:59 GMT 2024","111","GetLinked-Recruiter","AUTHENTICATION","Forgot password","","","Invalid email - Forgot_password",""
+"failed","Wed Oct 23 18:40:08 GMT 2024","Wed Oct 23 18:40:09 GMT 2024","199","GetLinked-Recruiter","Job","Create job","","","create_job-Empty Fields","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"failed","Wed Oct 23 18:40:31 GMT 2024","Wed Oct 23 18:40:31 GMT 2024","171","GetLinked-Recruiter","Job","get job details","","","get job details- Invalid Job ID",""
+"passed","Wed Oct 23 18:40:22 GMT 2024","Wed Oct 23 18:40:23 GMT 2024","1187","GetLinked-Recruiter","Job","Non_talent _job_list","","","non_talent_job_list",""
+"passed","Wed Oct 23 18:40:10 GMT 2024","Wed Oct 23 18:40:22 GMT 2024","11835","GetLinked-Recruiter","Job","Generate role& responsibilities","","","generate role responsibilities",""
+"passed","Wed Oct 23 18:40:33 GMT 2024","Wed Oct 23 18:40:33 GMT 2024","121","GetLinked-Recruiter","Job","track_job_view","","","track_job_view -Invalid token",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","25","GetLinked-Recruiter","Assessment as a service","Video Interview","","","list all assessment interviews",""
+"passed","Wed Oct 23 18:39:36 GMT 2024","Wed Oct 23 18:39:38 GMT 2024","1373","GetLinked-Recruiter","Recruiter","","","","Create HR-Invalid details","Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY"
+"passed","Wed Oct 23 18:40:57 GMT 2024","Wed Oct 23 18:41:06 GMT 2024","9169","GetLinked-Recruiter","Assessment as a service","Invitation","","","ExcelFileAnalysis",""
+"passed","Wed Oct 23 18:38:38 GMT 2024","Wed Oct 23 18:38:48 GMT 2024","10085","GetLinked-Recruiter","AUTHENTICATION","Login","","","Invalid password - login",""
+"broken","Wed Oct 23 18:40:55 GMT 2024","Wed Oct 23 18:40:55 GMT 2024","23","GetLinked-Recruiter","Assessment as a service","Assessment","","","generate intro message",""
+"broken","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","30","GetLinked-Recruiter","Job","JOB PIPELINE","","","recalculate matching score",""
+"passed","Wed Oct 23 18:39:02 GMT 2024","Wed Oct 23 18:39:02 GMT 2024","134","GetLinked-Recruiter","Company","company email","","","resend otp",""
+"broken","Wed Oct 23 18:41:06 GMT 2024","Wed Oct 23 18:41:06 GMT 2024","24","GetLinked-Recruiter","Assessment as a service","Invitation","","","Job pipeline invitation",""
+"passed","Wed Oct 23 18:40:31 GMT 2024","Wed Oct 23 18:40:32 GMT 2024","717","GetLinked-Recruiter","Job","track_job_view","","","track_job_view",""
+"passed","Wed Oct 23 18:38:48 GMT 2024","Wed Oct 23 18:38:49 GMT 2024","139","GetLinked-Recruiter","AUTHENTICATION","Login","","","Invalid email - login",""
+"broken","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","79","GetLinked-Recruiter","Assessment as a service","Dashboards","","","candidate result detail",""
+"failed","Wed Oct 23 18:40:08 GMT 2024","Wed Oct 23 18:40:08 GMT 2024","185","GetLinked-Recruiter","Job","Create job","","","create_job-Invalid job type","job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT"
+"passed","Wed Oct 23 18:39:56 GMT 2024","Wed Oct 23 18:39:56 GMT 2024","192","GetLinked-Recruiter","Job","JOB PIPELINE","","","remove job applicant from pipeline",""
+"passed","Wed Oct 23 18:40:57 GMT 2024","Wed Oct 23 18:40:57 GMT 2024","269","GetLinked-Recruiter","Assessment as a service","Invitation","","","invite external candidates",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","24","GetLinked-Recruiter","Assessment as a service","Video Interview","","","add or remove questions to assessment interview",""
+"broken","Wed Oct 23 18:41:47 GMT 2024","Wed Oct 23 18:41:47 GMT 2024","12","GetLinked-Recruiter","Services","CV PARSER > Group","","","fetch cv group data",""
+"passed","Wed Oct 23 18:41:46 GMT 2024","Wed Oct 23 18:41:46 GMT 2024","188","GetLinked-Recruiter","CV Review as a service","","","","user cv review",""
+"passed","Wed Oct 23 18:39:03 GMT 2024","Wed Oct 23 18:39:03 GMT 2024","256","GetLinked-Recruiter","Company","Create Company","","","create company-No Auth",""
+"passed","Wed Oct 23 18:41:08 GMT 2024","Wed Oct 23 18:41:08 GMT 2024","141","GetLinked-Recruiter","Assessment as a service","Dashboards","","","My questions",""
+"broken","Wed Oct 23 18:41:37 GMT 2024","Wed Oct 23 18:41:37 GMT 2024","32","GetLinked-Recruiter","Assessment as a service","Video Interview","","","delete assessment interview",""
