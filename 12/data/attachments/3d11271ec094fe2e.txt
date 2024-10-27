@@ -1,0 +1,6 @@
+{
+    "otp": "863965",
+    "email": "ibejihdaniel@gmail.com",
+    "new_password": "Alliswell2012$",
+    "confirm_password": "Alliswell2012$"
+}
