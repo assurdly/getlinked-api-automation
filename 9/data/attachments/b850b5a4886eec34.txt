@@ -1,0 +1,10 @@
+{
+    "first_name": "Margarette",
+    "last_name": "Mraz",
+    "email": "Laron.Heidenreich@yahoo.com",
+    "phone_number": "+23408026063846",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

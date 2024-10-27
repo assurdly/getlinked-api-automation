@@ -1,0 +1,5 @@
+{
+    "name": "New Stage Name",
+    "move_criteria": 5,
+    "assessment": "910f1612-e9e4-4141-bd20-8aa68fb17388"
+}
