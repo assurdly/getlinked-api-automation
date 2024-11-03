@@ -1,0 +1,10 @@
+{
+    "first_name": "Stella",
+    "last_name": "Bauch",
+    "email": "Phoebe_Denesik4@gmail.com",
+    "phone_number": "+23408099491927",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

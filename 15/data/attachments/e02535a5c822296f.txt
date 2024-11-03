@@ -1,0 +1,4 @@
+{
+    "role": "backend developer",
+    "role_level": "entry_level"
+}

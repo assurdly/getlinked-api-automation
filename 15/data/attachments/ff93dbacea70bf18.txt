@@ -1,0 +1,29 @@
+[
+    {
+        "id": 152,
+        "name": "Stage A",
+        "move_criteria": 7,
+        "is_assessment": true,
+        "assessment": "c1c70620-41d3-45f7-81bc-1ed823dce6d2",
+        "assessment_duration": 4,
+        "order": 1
+    },
+    {
+        "id": 153,
+        "name": "Stage B",
+        "move_criteria": 6,
+        "is_assessment": false,
+        "assessment": null,
+        "assessment_duration": 0,
+        "order": 2
+    },
+    {
+        "id": 154,
+        "name": "Stage C",
+        "move_criteria": 5,
+        "is_assessment": false,
+        "assessment": null,
+        "assessment_duration": 0,
+        "order": 3
+    }
+]

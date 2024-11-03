@@ -1,0 +1,10 @@
+{
+    "first_name": "Lesly",
+    "last_name": "White",
+    "email": "Maude@yopmail.com",
+    "phone_number": "+23408072081286",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

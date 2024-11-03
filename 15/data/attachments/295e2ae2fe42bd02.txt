@@ -1,0 +1,8 @@
+{
+    "assessment_interview":"null",
+    "candidates":[
+        {"name": "Todd Runolfsson", "email": "Issac@mailinator.com"}
+    ],
+    "is_from_job_post": "False",
+    "auth_method": ["email"]
+}

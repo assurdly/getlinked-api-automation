@@ -1,0 +1,10 @@
+{
+    "Authorization": "Bearer null ",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "3cfaed69-eb48-48e8-a9ea-f190bb2a7278",
+    "Host": "dev.getlinked.ai",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
