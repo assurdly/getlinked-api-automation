@@ -1,0 +1,1 @@
+{"detail":"You are not a verified corporate recruiter."}

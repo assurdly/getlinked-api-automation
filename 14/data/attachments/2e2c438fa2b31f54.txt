@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /recruiter/fetch_job_applications_in_job/</title>
+  <meta name="robots" content="NONE,NOARCHIVE">
+  <style>
+    html * { padding:0; margin:0; }
+    body * { padding:10px 20px; }
+    body * * { padding:0; }
+    body { font-family: sans-serif; background:#eee; color:#000; }
+    body > :where(header, main, footer) { border-bottom:1px solid #ddd; }
+    h1 { font-weight:normal; margin-bottom:.4em; }
+    h1 small { font-size:60%; color:#666; font-weight:normal; }
+    table { border:none; border-collapse: collapse; width:100%; }
+    td, th { vertical-align:top; padding:2px 3px; }
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
+    #info { background:#f6f6f6; }
+    #info ol { margin: 0.5em 4em; }
+    #info ol li { font-family: monospace; }
+    #summary { background: #ffc; }
+    #explanation { background:#eee; border-bottom: 0px none; }
+    pre.exception_value { font-family: sans-serif; color: #575757; font-size: 1.5em; margin: 10px 0 10px 0; }
+  </style>
+</head>
+<body>
+  <header id="summary">
+    <h1>Page not found <small>(404)</small></h1>
+    
+    <table class="meta">
+      <tr>
+        <th scope="row">Request Method:</th>
+        <td>GET</td>
+      </tr>
+      <tr>
+        <th scope="row">Request URL:</th>
+        <td>https://dev.getlinked.ai/recruiter/fetch_job_applications_in_job/</td>
+      </tr>
+      
+    </table>
+  </header>
+
+  <main id="info">
+    
+      <p>
+      Using the URLconf defined in <code>get_link.urls</code>,
+      Django tried these URL patterns, in this order:
+      </p>
+      <ol>
+        
+          <li>
+            
+              <code>
+                admin/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                talent/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                global_intern/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                user/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                jobs/&lt;str:unique_id&gt;/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                track_job_view/
+                [name='track_job_view']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job_description_upload/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                generate_role_responsibilities/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_created_jobs/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_job_applications_in_job/&lt;uuid:unique_id&gt;/
+                [name='fetch_job_applications_in_job']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                recruiter_pipelines/
+                [name='recruiters_pipelines']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                my_pipelines/
+                [name='recruiters_pipelines']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                pipelines/
+                [name='manage-pipelines']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                pipelines/&lt;int:pipeline_id&gt;/
+                [name='manage-single-pipeline']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                pipelines/&lt;int:pipeline_id&gt;/stages/
+                [name='manage-stages']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                pipelines/&lt;int:pipeline_id&gt;/stages/bulk_update/
+                [name='pipeline_stages_bulk_update']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                pipelines/&lt;int:pipeline_id&gt;/stages/&lt;int:stage_id&gt;/
+                [name='manage-single-stage']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_job_pipeline_details/&lt;str:job_id&gt;/
+                [name='manage-single-stage']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                export-job-pipeline/
+                [name='export-job-pipeline']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                interviews/create/
+                [name='create_interview']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                interviews/
+                [name='recruiter_interviews']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                candidate_progression/
+                [name='candidate_progression']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                delete_job_applications/
+                [name='delete_job_applications']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                candidate_applied_job_detail/&lt;int:job_application_id&gt;/
+                [name='candidate_job_application_detail']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                candidate_applied_job_cv_detail/&lt;int:job_application_id&gt;/
+                [name='candidate_job_application_detail']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                confirm-attendance/&lt;str:invitation_token&gt;/
+                [name='confirm_attendance']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                reschedule-interview/&lt;str:invitation_token&gt;/
+                [name='reschedule_interview']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                cancel-interview/&lt;str:invitation_token&gt;/
+                [name='cancel_interview']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job-applications/&lt;int:pk&gt;/update-percentage-match/
+                [name='update_percentage_match']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                recalculate_matching_reason/
+                [name='recalculate_matching_reason']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                move_to_initial_stage/
+                [name='move_to_initial_stage']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                move_applicant_to_group/
+                [name='move_applicant_to_group']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job-applications/&lt;str:job_application_id&gt;/
+                [name='update_is_seen_or_viewed']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                bulk-upload-cv/
+                [name='bulk_upload_cv']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                batch-interview/
+                [name='batch-interview']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                batch-interview/candidates/
+                [name='team-member-candidates']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                schedule-interviews/
+                [name='schedule_interviews']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job_application/&lt;int:job_application_id&gt;/comments/
+                [name='comment-list-create']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                comments/&lt;uuid:comment_id&gt;/
+                [name='comment-retrieve-update-destroy']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                add_team_member/
+                [name='add-team-member']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                remove_team_member/&lt;str:email&gt;/
+                [name='remove_team_member']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                team/
+                [name='recruiter-team']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                update_team_member_role/&lt;int:pk&gt;/
+                [name='update-team-member-role']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                team_member_roles/
+                [name='team-member-roles']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                team_member_permissions/
+                [name='team-member-permissions']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                role-permissions/&lt;int:role_id&gt;/
+                [name='role-permissions']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                update-role-permissions/&lt;int:id&gt;/
+                [name='update-role-permissions']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                create_roles_and_permissions/
+                [name='create_roles_and_permissions']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                company/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                create-company/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                verify_company_email/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                resend_company_email_verification_code/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_industries/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_all_companies/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_all_recruiters/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_all_recruiters_for_a_company/&lt;int:company_id&gt;/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                veirfy_recruiter_email/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                invite_team_member/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                accept_team_invite/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                job_comment/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                fetch_job_comment/&lt;int:job_id&gt;/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                delete_job_comment/&lt;int:comment_id&gt;/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                reply_job_comment/&lt;int:job_id&gt;/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                check_user_status/
+                [name='check_user_status']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                talent_request/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                existing_recruiter_talent_request/
+                [name='request_talent']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                email-actions/accept-offer/&lt;str:offer_token&gt;/
+                [name='accept_offer']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                email-actions/decline-offer/&lt;str:offer_token&gt;/
+                [name='decline_offer']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                recruiter/
+                
+              </code>
+            
+              <code>
+                email-actions/negotiate-offer/&lt;str:offer_token&gt;/
+                [name='negotiate_offer']
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                interview_management/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                hackathon/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                user_transaction/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                assessments/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                referral/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                cv_review_as_a_service/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                services/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                main/
+                
+              </code>
+            
+          </li>
+        
+          <li>
+            
+              <code>
+                ads_tracker/
+                
+              </code>
+            
+          </li>
+        
+      </ol>
+      <p>
+        
+          The current path, <code>recruiter/fetch_job_applications_in_job/</code>,
+        
+        didn’t match any of these.
+      </p>
+    
+  </main>
+
+  <footer id="explanation">
+    <p>
+      You’re seeing this error because you have <code>DEBUG = True</code> in
+      your Django settings file. Change that to <code>False</code>, and Django
+      will display a standard 404 page.
+    </p>
+  </footer>
+</body>
+</html>
