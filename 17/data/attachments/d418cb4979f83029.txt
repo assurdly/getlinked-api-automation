@@ -1,0 +1,8 @@
+{
+    "assessment_interview":"null",
+    "candidates":[
+        {"name": "Roberta Aufderhar", "email": "Ruthie@mailinator.com"}
+    ],
+    "is_from_job_post": "False",
+    "auth_method": ["email"]
+}

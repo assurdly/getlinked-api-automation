@@ -1,0 +1,10 @@
+{
+    "first_name": "Alexa",
+    "last_name": "Mitchell",
+    "email": "Chanelle@yopmail.com",
+    "phone_number": "+23408043386668",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "",
+        "move_criteria": "",
+        "is_assessment": "",
+        "assessment_duration": "",
+        "email_notification_enabled": "",
+        "email_body": "",
+        "email_subject": ""
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "first_name": "Candace",
+    "last_name": "Morar",
+    "email": "Torey98@hotmail.com",
+    "phone_number": "+23408018846729",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

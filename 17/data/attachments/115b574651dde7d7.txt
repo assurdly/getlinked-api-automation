@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "company_email": "@libertyng.com",
+    "type_of_recruiter": "HR_PERSONNEL",
+    "role" : "Hiring Manager"
+}
