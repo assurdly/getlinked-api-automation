@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"status":false,"message":"New password cannot be the same as the old password."},"errors":null}

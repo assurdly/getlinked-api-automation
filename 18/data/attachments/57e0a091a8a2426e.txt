@@ -1,0 +1,6 @@
+{
+    "assessment_interview":"",
+    "candidates":[],
+    "is_from_job_post": "",
+    "auth_method": []
+}
