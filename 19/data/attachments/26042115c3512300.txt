@@ -1,0 +1,5 @@
+{
+    "email": "teni@mailinator.com",
+    "token": "b405062b",
+    "is_interview": "True"
+}

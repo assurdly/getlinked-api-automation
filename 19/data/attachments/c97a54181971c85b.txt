@@ -1,0 +1,5 @@
+{
+    "name": "Network Security Assessment",
+    "role": "Network Engineer",
+    "role_level": "entry_level"
+}
