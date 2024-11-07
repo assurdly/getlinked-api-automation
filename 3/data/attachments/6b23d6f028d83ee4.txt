@@ -1,8 +1,0 @@
-{
-    "invite_id": "788ff4f0-5cfa-4ea2-a6d3-ff6ff578f5c1",
-    "assessment_id":"910f1612-e9e4-4141-bd20-8aa68fb17388",
-    "result_id": "ce2105f1-ba96-43d8-a157-681882c6a544",
-    "email": "ibejihdaniel@gmail.com",
-    "candidate_name": "Daniel Ibejih",
-    "token": "a7877aea"
-}

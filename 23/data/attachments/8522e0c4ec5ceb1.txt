@@ -1,0 +1,10 @@
+{
+    "first_name": "Erin",
+    "last_name": "Wehner",
+    "email": "Tyra.Hansen@gmail.com",
+    "phone_number": "+23408062452169",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

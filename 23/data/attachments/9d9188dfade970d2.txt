@@ -1,0 +1,6 @@
+{
+    "company": "2",
+    "company_email": "doam@libertyng.com",
+    "type_of_recruiter": "HR_PERSONNEL",
+    "role" : "Hiring Manager"
+}
