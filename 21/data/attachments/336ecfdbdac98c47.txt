@@ -1,0 +1,6 @@
+{
+    "company": "8",
+    "company_email": "joseph@libertyng.com",
+    "type_of_recruiter": "RECRUITMENT_AGENCY",
+    "role": "HR"
+}

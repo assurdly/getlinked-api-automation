@@ -1,0 +1,10 @@
+{
+    "first_name": "Forrest",
+    "last_name": "Ferry",
+    "email": "Eliane.Kessler45@yahoo.com",
+    "phone_number": "+23408036124899",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
