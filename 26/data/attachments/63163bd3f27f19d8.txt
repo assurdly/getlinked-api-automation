@@ -1,0 +1,10 @@
+{
+    "first_name": "Paris",
+    "last_name": "O'Kon",
+    "email": "Delphia.Bruen@gmail.com",
+    "phone_number": "+23408050321404",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

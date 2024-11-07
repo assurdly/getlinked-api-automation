@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Dejah","middle_name":null,"last_name":"Spinka","email":"Regan@yopmail.com","phone_number":"+2348044095164","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

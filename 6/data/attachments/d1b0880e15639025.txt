@@ -1,7 +1,0 @@
-{
-    "candidate_email": "ibejihdaniel@gmail.com",
-    "candidate_name": "Daniel Ibejih",
-    "invite_id": "e6bafd7c-e0fc-42e6-ac44-2bacb7c1bbda",
-    "assessment_id":"023e261a-579d-43be-95f8-e62aae9b4ad6",
-    "result_id": "fb975dd3-696b-44e7-83ee-f2c879a23cab"
-}
