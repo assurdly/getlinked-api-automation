@@ -1,0 +1,10 @@
+{
+    "first_name": "Gus",
+    "last_name": "Armstrong",
+    "email": "Dean@yopmail.com",
+    "phone_number": "+23408062567442",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
