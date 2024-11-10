@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"William","middle_name":null,"last_name":"Moore","email":"Mikel86@yahoo.com","phone_number":"+2348031168326","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
