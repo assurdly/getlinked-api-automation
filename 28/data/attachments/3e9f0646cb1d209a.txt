@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Wendell","middle_name":null,"last_name":"Howe","email":"Terrance@yopmail.com","phone_number":"+2348058964024","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

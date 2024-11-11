@@ -1,0 +1,14 @@
+{
+    "Server": "nginx/1.24.0 (Ubuntu)",
+    "Date": "Mon, 11 Nov 2024 10:17:56 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "183",
+    "Connection": "keep-alive",
+    "WWW-Authenticate": "Bearer realm=\"api\"",
+    "Vary": "Accept, origin",
+    "Allow": "GET, PATCH, DELETE, HEAD, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

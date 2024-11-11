@@ -1,3 +1,0 @@
-{
-    "questions": ["eaab9bb3-e723-4783-8703-1bd9296e5b4b", "ea698a2a-fcb5-4ac5-8ab0-8ad1f9f1559f", "e7ef54c5-55a2-400d-8092-4c8f08cfac28"]
-}

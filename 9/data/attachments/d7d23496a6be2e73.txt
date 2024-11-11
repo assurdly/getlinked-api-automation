@@ -1,4 +1,0 @@
-{
-    "job_title": "Backend Developer",
-    "industry": "web3"
-}

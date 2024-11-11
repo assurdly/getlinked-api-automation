@@ -1,4 +1,0 @@
-{
-  "name": "Test Interview 1",
-  "questions": ["ff6d05d5-3195-4520-80cb-1868c30af4ec", "ff27a409-7448-4313-ab2d-09086d9fe4cd"]
-}

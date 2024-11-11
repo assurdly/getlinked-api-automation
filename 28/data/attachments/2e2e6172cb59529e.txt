@@ -1,0 +1,10 @@
+{
+    "first_name": "Dejuan",
+    "last_name": "Armstrong",
+    "email": "Keenan.Larson@yahoo.com",
+    "phone_number": "+23408036718914",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
