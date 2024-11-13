@@ -122,7 +122,7 @@ jobs:
           SLACK_CHANNEL: 'C070KUKPDLZ'
           SLACK_MESSAGE: |
             *Getlinked - API Quality Readiness*
-            *Contributors - Abisola, Wuraola, Priscaline*
+            *Contributors - Abisola*
             Status: ${{ job.status }}
             Passing Tests: ${{ steps.parse_json.outputs.passing_percentage }}%
             Failing Tests: ${{ steps.parse_json.outputs.failing_percentage }}%
