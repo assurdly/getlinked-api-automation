@@ -1,0 +1,14 @@
+{
+    "email": "vicko@gmail.com",
+    "job_title": "Senior developer",
+    "role_description_responsibilities": "Develop and maintain web applications.",
+    "proficiency_level": "SENIOR_LEVEL",
+    "working_option": "REMOTE",
+    "employment_type": "FULL_TIME",
+    "location": "New York, NY",
+    "number_of_talent": "3",
+    "phone_number" : "09057485748",
+    "salary": "120000",
+    "requirements" : "kasjfkasjfklsafjlkadsjfksjfkfjklsajflksdjfklsajfklsdjfklasjfklsjafkljdsafkljdslfjdfljsfjklsjdlf",
+    "industry": "Technology"
+}

@@ -1,8 +1,0 @@
-{
-  "responsibilities": "",
-  "qualifications": "",
-  "requirements": "",
-  "compulsory_requirements": "",
-  "exclusion_list": null,
-  "benefits": ""
-}

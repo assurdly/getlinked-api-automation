@@ -1,0 +1,29 @@
+[
+    {
+        "id": "",
+        "name": "",
+        "move_criteria": "",
+        "is_assessment": "",
+        "assessment": "",
+        "assessment_duration": "",
+        "order": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "move_criteria": "",
+        "is_assessment": "",
+        "assessment": "",
+        "assessment_duration": "",
+        "order": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "move_criteria": "",
+        "is_assessment": "",
+        "assessment":"",
+        "assessment_duration": "",
+        "order": ""
+    }
+]

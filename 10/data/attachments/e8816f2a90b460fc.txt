@@ -1,1 +1,0 @@
-[{"id":"2f1d56b3-b39c-4376-a734-b4184f23732c","question_set":[],"name":"Liberty Tech Assessment Pack","description":null,"total_questions":0,"is_intervew":false,"recruiter":11},{"id":"2dfba115-3236-437d-95a1-6afaad704193","question_set":[],"name":"Liberty Tech Assessment Pack","description":null,"total_questions":0,"is_intervew":false,"recruiter":11}]

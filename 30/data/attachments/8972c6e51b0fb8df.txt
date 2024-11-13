@@ -1,0 +1,10 @@
+{
+    "first_name": "Jesse",
+    "last_name": "Wiza",
+    "email": "Kiara.Bode@yahoo.com",
+    "phone_number": "+23408032340465",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

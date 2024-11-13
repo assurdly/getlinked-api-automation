@@ -1,5 +1,0 @@
-{
-    "name": "Cognitive test",
-    "description": "Test your cognitive skill",
-    "questions": [] 
-}
