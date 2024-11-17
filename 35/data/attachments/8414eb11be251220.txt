@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Alek","middle_name":null,"last_name":"Deckow","email":"Kiarra@yopmail.com","phone_number":"+2348022118232","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

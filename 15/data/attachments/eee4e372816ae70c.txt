@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Lesly","middle_name":null,"last_name":"White","email":"Maude@yopmail.com","phone_number":"+2348072081286","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

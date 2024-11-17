@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"2bb65cdb-834f-4e19-80c8-78a2003e0c06","first_name":"Kassia","middle_name":"Ezekiel","last_name":"Sule","email":"kassia@mailinator.com","email_verified":true,"phone_number":"2347068000001","date_of_birth":null,"gender":"F","user_type":"RECRUITER"},"errors":null}
