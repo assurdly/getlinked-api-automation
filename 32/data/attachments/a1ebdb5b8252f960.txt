@@ -1,0 +1,8 @@
+{
+    "assessment":"5d00adb8-c1cb-40f8-a296-d9a8ceff52ea",
+    "candidates":[
+        {"name": "Zee Daniels", "email": "zee@mailinator.com"}
+    ],
+    "is_from_job_post": "False",
+    "auth_method": []
+}
