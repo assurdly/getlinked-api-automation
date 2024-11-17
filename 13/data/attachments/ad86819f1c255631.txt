@@ -1,6 +1,0 @@
-{
-    "candidates":[
-        {"name": "Ibejih Daniel", "email": "chukwukaibejih@gmail.com", "password": "g8dbusn"},
-        {"name": "Chuka Daniel", "email": "chukaibejih@gmail.com", "password": "g8dbusn"}
-    ]
-}

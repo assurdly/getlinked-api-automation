@@ -1,9 +1,0 @@
-{
-    "assessment":"910f1612-e9e4-4141-bd20-8aa68fb17388",
-    "candidates":[
-        {"name": "Ibejih", "email": "ibejihdaniel@gmail.com", "job_application_id": 196}
-    ],
-    "recruiter": 1,
-    "assessment_duration": 1,
-    "is_from_job_post": true
-}

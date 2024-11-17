@@ -1,4 +1,0 @@
-{
-    "recipient": "ibejihdaniel@gmail.com",
-    "otp": "837552"
-}
