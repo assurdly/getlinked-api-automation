@@ -1,5 +1,0 @@
-{
-    "company": "3",
-    "type_of_recruiter": "PERSONAL_RECRUITER",
-    "role": "Next of kin"
-}
