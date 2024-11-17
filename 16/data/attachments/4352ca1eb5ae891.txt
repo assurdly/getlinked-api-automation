@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Lessie","middle_name":null,"last_name":"Goyette","email":"Demarcus@yopmail.com","phone_number":"+2348051273606","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

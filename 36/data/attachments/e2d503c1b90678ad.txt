@@ -1,0 +1,10 @@
+{
+    "first_name": "Tomasa",
+    "last_name": "Schmeler",
+    "email": "Fleta.Schamberger97@yahoo.com",
+    "phone_number": "+23408087902573",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

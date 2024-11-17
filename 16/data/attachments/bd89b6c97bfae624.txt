@@ -1,5 +1,0 @@
-{
-    "candidate_email": "ibejih@yopmail.com",
-    "assessment_id": "dd071d42-3cfb-4506-bfc7-b2961bfbbdb3"
-}
-  

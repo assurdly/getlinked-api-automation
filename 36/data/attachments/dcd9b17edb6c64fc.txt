@@ -1,0 +1,10 @@
+{
+    "first_name": "Charlotte",
+    "last_name": "Hamill",
+    "email": "Gladyce.Kunze@yahoo.com",
+    "phone_number": "+23408011112045",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

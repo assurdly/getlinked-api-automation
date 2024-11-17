@@ -1,5 +1,0 @@
-{
-    "company": "43",
-    "type_of_recruiter": "PERSONAL_RECRUITER",
-    "role": "CEO"
-}
