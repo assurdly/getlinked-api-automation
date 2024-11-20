@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Alexa","middle_name":null,"last_name":"Mitchell","email":"Chanelle@yopmail.com","phone_number":"+2348043386668","date_of_birth":"1995-12-08","gender":"M"},"errors":null}

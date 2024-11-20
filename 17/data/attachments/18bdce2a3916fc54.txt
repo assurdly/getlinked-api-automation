@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Infrastructure Facilitator Interview Pack"
-}
