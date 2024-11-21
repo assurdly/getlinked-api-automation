@@ -1,0 +1,10 @@
+{
+    "first_name": "Beryl",
+    "last_name": "Harber",
+    "email": "Keenan.Altenwerth@yahoo.com",
+    "phone_number": "+23408030374297",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

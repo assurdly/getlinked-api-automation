@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Program Facilitator Interview Pack"
-}
