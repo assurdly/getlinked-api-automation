@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Mylene","middle_name":null,"last_name":"Pacocha","email":"Icie@yopmail.com","phone_number":"+2348063868035","date_of_birth":"1995-12-08","gender":"M","address":null},"errors":null}

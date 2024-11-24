@@ -1,0 +1,10 @@
+{
+    "first_name": "Maybelle",
+    "last_name": "Fahey",
+    "email": "Ceasar.Wintheiser29@gmail.com",
+    "phone_number": "+23408079015018",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

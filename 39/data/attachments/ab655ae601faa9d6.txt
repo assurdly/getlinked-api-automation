@@ -1,0 +1,1 @@
+{"message":"Processed candidates successfully.","email_sent_to":["shaun@mailinator.com"],"not_found":["ec5a0f38-2aed-7060-8f59-cc1914f23135"]}

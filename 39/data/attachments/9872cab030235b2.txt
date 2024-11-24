@@ -1,0 +1,9 @@
+{
+    "invitation_token": "eyJyZWNpcGllbnRfZW1haWwiOiJhYmlzb2xhKzEwQGFzc3VyZGx5LmNvbSIsImNvbXBhbnlfaWQiOjM4LCJJc19yZWNydWl0ZXIiOnRydWUsInJvbGUiOjE0MywidHlwZV9vZl9yZWNydWl0ZXIiOiJIUl9QRVJTT05ORUwifQ:1tEWyJ:NlYtSTjUXMAhnXZTiYtMZI83hCPzJ0IgRl4uIYEGHFg",
+    "first_name": "Faith",
+    "last_name": "Ophrah",
+    "phone_number": "08143423993",
+    "gender": "Female",
+    "password": "@Password1",
+    "confirm_password": "@Password1"
+}
