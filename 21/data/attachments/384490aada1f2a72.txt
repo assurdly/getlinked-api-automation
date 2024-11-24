@@ -1,4 +1,0 @@
-{
-    "name": "Intellectual Assessment",
-    "questions": ["aa5a267f-729d-4ed1-b9cc-e729e37f4f49"]
-}

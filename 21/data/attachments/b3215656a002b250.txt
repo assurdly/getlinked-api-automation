@@ -1,3 +1,0 @@
-{
-    "email": "Vern@yopmail.com"
-}

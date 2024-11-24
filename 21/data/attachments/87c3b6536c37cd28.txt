@@ -1,4 +1,0 @@
-{
-    "name": "Personality Test",
-    "description": "This is a personality test"
-}

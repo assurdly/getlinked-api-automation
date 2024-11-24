@@ -1,0 +1,10 @@
+{
+    "first_name": "Saige",
+    "last_name": "Pfeffer",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408040860404",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
