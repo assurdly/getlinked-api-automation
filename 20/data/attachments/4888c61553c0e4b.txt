@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Creative Representative Interview Pack"
-}

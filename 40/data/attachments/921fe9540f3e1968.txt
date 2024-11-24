@@ -1,0 +1,4 @@
+{
+    "name": "Corporate Assistant",
+    "use_ai": "True"
+}

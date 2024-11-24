@@ -1,4 +1,0 @@
-{
-    "name": "Virtual Assistant",
-    "use_ai": "True"
-}

@@ -1,1 +1,0 @@
-{"message":"Sorry, This Candidate has already submitted"}

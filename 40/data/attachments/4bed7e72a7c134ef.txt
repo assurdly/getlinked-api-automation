@@ -1,0 +1,1 @@
+{"id":"80fcd742-02ae-4f05-b084-261145c25ddf","name":"Test Interview 1","questions":[],"role":null,"role_level":"entry_level","creator":2,"start_time":null,"deadline":null,"total_questions":0,"no_candidates":0,"completed":0,"paused":[],"ongoing":0,"not_started":0,"is_published":false,"invite_info":{"message":"No invites found for the assessment interview."},"candidates":[]}
