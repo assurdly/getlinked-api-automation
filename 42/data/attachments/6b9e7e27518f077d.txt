@@ -1,0 +1,1 @@
+{"message":"Job applications removed from stages","removed_applications":[2,3],"not_found_applications":[0]}

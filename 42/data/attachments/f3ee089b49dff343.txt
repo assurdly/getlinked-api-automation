@@ -1,0 +1,10 @@
+{
+    "interview":"cf37cf62-5b05-471d-9368-088114b251ff",
+    "candidates":[
+        {"name": "Ibejih", "email": "ibejih@mailinator.com", "job_application_id": 168}
+    ],
+    "recruiter": 1,
+    "duration": 1, 
+    "is_from_job_post": true,
+    "is_interview": true
+}

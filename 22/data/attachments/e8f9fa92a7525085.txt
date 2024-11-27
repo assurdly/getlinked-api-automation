@@ -1,8 +1,0 @@
-{
-    "assessment_interview":"null",
-    "candidates":[
-        {"name": "Jerry Schuppe", "email": "Audra@mailinator.com"}
-    ],
-    "is_from_job_post": "False",
-    "auth_method": ["email"]
-}

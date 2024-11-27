@@ -1,8 +1,0 @@
-{
-   
-       "invite_id": "8e022ac4-e365-49b6-a58a-4b98299376f7",
-    "assessment_id": "1f2a7275-a97b-47bd-a9a6-8acb6c0a3b6d",
-    "result_id": "dfa75598-8e6c-4951-8b6b-2763f1c061ad",
-    "candidate_email": "shaun@mailinator.com",
-    "candidate_name": "Shaun Okojie"
-}
