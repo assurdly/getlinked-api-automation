@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Lillian","middle_name":null,"last_name":"Barrows","email":"Eryn@yopmail.com","phone_number":"+2348055317957","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
