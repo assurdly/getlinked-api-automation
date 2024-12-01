@@ -1,0 +1,9 @@
+{
+    "invitation_token": "eyJyZWNpcGllbnRfZW1haWwiOiJiaW15QG1haWxpbmF0b3IuY29tIiwiY29tcGFueV9pZCI6MTAsIklzX3JlY3J1aXRlciI6dHJ1ZSwicm9sZSI6MzcsInR5cGVfb2ZfcmVjcnVpdGVyIjoiUEVSU09OQUxfUkVDUlVJVEVSIn0:1tGdUR:1w_HW4OH9Ly8a4I9gN7_oATCPIkRJszIM7pVUlxyhV4",
+    "first_name": "Roy",
+    "last_name": "Morey",
+    "phone_number": "+2348024136162",
+    "gender": "Female",
+    "password": "@Password1",
+    "confirm_password": "@Password1"
+}
