@@ -1,0 +1,4 @@
+{
+    "question": "Write a Java function that calculates the factorial of a given number.",
+    "experience_level": "expert_level"
+}

@@ -1,0 +1,4 @@
+{
+    "candidate_email": "",
+    "assessment_id": ""
+}

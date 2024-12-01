@@ -1,0 +1,10 @@
+{
+    "first_name": "Cassidy",
+    "last_name": "O'Reilly",
+    "email": "Jovany_Wintheiser@yahoo.com",
+    "phone_number": "+23408035967144",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
