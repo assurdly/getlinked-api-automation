@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "company_email": "",
-    "type_of_recruiter": "",
-    "role" : ""
-}

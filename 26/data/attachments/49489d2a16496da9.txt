@@ -1,4 +1,0 @@
-{
-    "cv_ids": [50,51,52],
-    "email": "any@gmail.com"
-}

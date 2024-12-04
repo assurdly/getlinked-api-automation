@@ -1,5 +1,0 @@
-{
-    "recipient_email" : "taiwotob@gmail.com",
-    "role" : "HR_PERSONNEL"
-
-}

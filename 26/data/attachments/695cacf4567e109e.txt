@@ -1,8 +1,0 @@
-{
-    "assessment_interview":"null",
-    "candidates":[
-        {"name": "Tanya Howe", "email": "Estell@mailinator.com"}
-    ],
-    "is_from_job_post": "False",
-    "auth_method": ["email"]
-}

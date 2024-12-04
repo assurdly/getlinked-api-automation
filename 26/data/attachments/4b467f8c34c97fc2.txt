@@ -1,8 +1,0 @@
-{
-    "invitation_token": "eyJyZWNpcGllbnRfZW1haWwiOiJkYXJlQGxpYmVydHluZy5jb20iLCJjb21wYW55X2lkIjoxLCJJc19yZWNydWl0ZXIiOnRydWUsInJvbGUiOiJISVJJTkcgTUFOQUdFUiIsInR5cGVfb2ZfcmVjcnVpdGVyIjoiSFJfUEVSU09OTkVMIn0:1s9kAz:OzhxnTxVVWAwMpCjNBdCZ-5iIVMPeL9ueQcCtgqG_m0",
-    "first_name": "Dare",
-    "last_name": "Raymond",
-    "phone_number": "09043453843",
-    "gender": "male",
-    "password": "Testing123$"
-}

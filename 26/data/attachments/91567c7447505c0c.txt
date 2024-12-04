@@ -1,1 +1,0 @@
-{"name":["This field is required."],"logo":["No file was submitted."],"type_of_company":["This field is required."]}

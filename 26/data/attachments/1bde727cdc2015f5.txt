@@ -1,3 +1,0 @@
-{
-    "name": "Corporate Directives Consultant Interview Pack"
-}
