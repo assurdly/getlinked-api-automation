@@ -1,5 +1,0 @@
-{
-    "candidate_email": "john@yopmail.com",
-    "assessment_id": "77ae25b5-0c66-4392-9c63-92db0f78cae2"
-}
-  
