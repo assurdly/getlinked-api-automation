@@ -1,3 +1,0 @@
-{
-    "name": "Regional Applications Executive Interview Pack"
-}

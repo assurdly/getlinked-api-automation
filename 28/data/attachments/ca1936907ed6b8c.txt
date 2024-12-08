@@ -1,3 +1,0 @@
-{
-    "name": "Lead Interactions Developer Interview Pack"
-}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Olga",
+    "last_name": "Jerde",
+    "email": "Brooklyn_Kirlin23@hotmail.com",
+    "phone_number": "+23408078640470",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

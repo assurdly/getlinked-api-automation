@@ -1,0 +1,1 @@
+{"id":"86bb108a-1bbe-49a9-9644-a31b3d031731","section":"acfb6aca-bd88-4d6d-9281-407e7199e61e","question":"What is Loan backing multi-byte project Fuerte ?","time":4000}
