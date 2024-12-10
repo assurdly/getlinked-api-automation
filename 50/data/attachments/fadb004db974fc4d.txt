@@ -1,0 +1,10 @@
+{
+    "first_name": "Nolan",
+    "last_name": "Considine",
+    "email": "Georgianna8@hotmail.com",
+    "phone_number": "+234080232854",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

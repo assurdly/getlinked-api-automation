@@ -1,0 +1,1 @@
+{"assessment":["Sorry, you can't send out an invite yet because the assessment must have at least one section with questions to send invites."]}

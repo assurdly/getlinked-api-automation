@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Cyril","middle_name":null,"last_name":"Bradtke","email":"Kyla@yopmail.com","phone_number":"+2348049947911","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
