@@ -1,6 +1,0 @@
-{
-    "otp": "808080",
-    "email": "Rosalind@yopmail.com",
-    "new_password": "Alliswell2012$",
-    "confirm_password": "Alliswell2012$"
-}

@@ -1,6 +1,0 @@
-{
-    "candidate": "ibejihdanielgmail.com",
-    "question": "fbf87fbc-63fd-441a-8436-c7397d1652f3",
-    "result_id": "6a66e5ca-6739-4642-a366-be28f1fb4a92",
-    "video": ""
-}

@@ -1,0 +1,1 @@
+{"company":["A valid integer is required."],"type_of_recruiter":["\"\" is not a valid choice."],"role":["This field may not be blank."]}

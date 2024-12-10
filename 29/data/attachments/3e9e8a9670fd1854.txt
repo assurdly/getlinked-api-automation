@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Fermin","middle_name":null,"last_name":"Marvin","email":"Rosalind@yopmail.com","phone_number":"+2348054586426","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
