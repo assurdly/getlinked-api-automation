@@ -1,8 +1,0 @@
-{
-    "assessment":"ade65fd9-d959-45cd-a907-d0636fc2f60e",
-    "candidates":[
-        {"name": "Ada Daniels", "email": "ada@mailinator.com"}
-    ],
-    "is_from_job_post": "False",
-    "auth_method": []
-}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Foster",
+    "last_name": "Leannon",
+    "email": "Myrl_Boyer11@hotmail.com",
+    "phone_number": "+23408051317161",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

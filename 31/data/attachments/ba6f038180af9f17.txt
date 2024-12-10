@@ -1,4 +1,0 @@
-{
-  "add_questions": [ "fe4c07f6-d522-4c20-876b-0c00f3ca763d", "fe2a1205-01c0-4eb5-b227-6834a632b3e6" ],
-  "remove_questions": ["ff6d05d5-3195-4520-80cb-1868c30af4ec", "ff27a409-7448-4313-ab2d-09086d9fe4cd"]
-}
