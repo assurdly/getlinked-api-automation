@@ -1,4 +1,0 @@
-{
-  "question_pack": "b050e357-7bc9-4ce1-bcce-c3d300c77360", 
-  "question": "b0ccc96b-cc3f-4cc2-8d05-1c68f8086951"  
-}

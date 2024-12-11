@@ -1,3 +1,0 @@
-{
-    "name": "Investor Directives Orchestrator Interview Pack"
-}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Estevan",
+    "last_name": "Romaguera",
+    "email": "Danyka86@yahoo.com",
+    "phone_number": "+23408055647778",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
