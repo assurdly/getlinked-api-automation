@@ -1,0 +1,10 @@
+{
+    "first_name": "Quincy",
+    "last_name": "Marquardt",
+    "email": "Domingo@mailinator.com",
+    "phone_number": "+23408052331215",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Providenci","middle_name":null,"last_name":"Lueilwitz","email":"Brown@yopmail.com","phone_number":"+2348099301741","date_of_birth":"1995-12-08","gender":"M"},"errors":null}
