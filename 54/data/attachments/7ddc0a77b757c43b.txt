@@ -1,0 +1,10 @@
+{
+    "first_name": "Jana",
+    "last_name": "Aufderhar",
+    "email": "Cierra.Rodriguez18@gmail.com",
+    "phone_number": "+23408079585690",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

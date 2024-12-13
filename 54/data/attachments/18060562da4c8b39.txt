@@ -1,0 +1,1 @@
+{"id":"0b98fae5-17b5-415f-94ae-eed4cc157361","job_application":1,"recruiter":10,"recruiter_name":"Ayobami Alaran","timestamp":"2024-12-13T19:53:25.878476","text":"This is a for the clout","rating":3.0}
