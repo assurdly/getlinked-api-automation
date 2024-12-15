@@ -1,0 +1,5 @@
+{
+    "company": "91",
+    "type_of_recruiter": "PERSONAL_RECRUITER",
+    "role": "CEO"
+}

@@ -1,8 +1,0 @@
-{
-    "invite_id": "2b621ea8-f3e3-4ef8-a5a7-6d1ebacc7999",
-    "assessment_id": "1f2a7275-a97b-47bd-a9a6-8acb6c0a3b6d",
-    "result_id": "e907e670-d7d7-41e8-b89a-ad0f187510ad",
-    "email": "teni@mailinator.com",
-    "candidate_name": "Teni John",
-    "token": "f6f4fd08"
-}

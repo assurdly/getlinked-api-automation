@@ -1,0 +1,1 @@
+{"assessment_interview":["This field may not be null."],"candidates":["The candidates list cannot be empty."],"is_from_job_post":["Must be a valid boolean."]}

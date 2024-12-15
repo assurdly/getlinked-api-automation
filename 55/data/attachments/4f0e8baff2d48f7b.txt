@@ -1,0 +1,1 @@
+{"error":"Invitation token is required."}
