@@ -1,3 +1,0 @@
-{
-    "name": "Customer Assurance Designer Interview Pack"
-}
