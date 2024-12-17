@@ -1,1 +1,0 @@
-level: warn, messages: Form param `logo`, file load error: "OaxtZ5kgo/download (1) - Copy.jpg", no such file

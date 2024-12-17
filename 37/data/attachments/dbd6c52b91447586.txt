@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"message":"Password changed successfully."},"errors":null}

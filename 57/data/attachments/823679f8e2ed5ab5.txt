@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"89566214-54ec-4a87-a782-d0667b832a87","first_name":"Ayobami","middle_name":"Abd","last_name":"Alaran","email":"arike@mailinator.com","email_verified":true,"phone_number":"2347069068701","date_of_birth":null,"gender":"F","user_type":"RECRUITER","address":"Some"},"errors":null}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Nickolas","middle_name":null,"last_name":"Trantow","email":"Seamus@yopmail.com","phone_number":"+2348098095982","date_of_birth":"1995-12-08","gender":"M","address":null},"errors":null}

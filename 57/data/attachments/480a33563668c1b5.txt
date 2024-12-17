@@ -1,0 +1,10 @@
+{
+    "first_name": "Kay",
+    "last_name": "Schumm",
+    "email": "Kaya@mailinator.com",
+    "phone_number": "+23408088765006",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

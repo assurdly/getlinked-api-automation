@@ -1,0 +1,7 @@
+[
+    {
+        "recipient_email": "",
+        "role_id": null, 
+        "type_of_recruiter": ""
+    }
+]

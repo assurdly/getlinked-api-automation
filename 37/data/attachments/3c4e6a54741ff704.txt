@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Quality Developer Interview Pack"
-}
