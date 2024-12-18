@@ -1,0 +1,10 @@
+{
+    "first_name": "Dennis",
+    "last_name": "Blick",
+    "email": "Candace.Lemke23@yahoo.com",
+    "phone_number": "+2340801978684",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

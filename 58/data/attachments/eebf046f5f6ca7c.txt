@@ -1,0 +1,10 @@
+{
+    "first_name": "Coby",
+    "last_name": "Reichert",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408044568666",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

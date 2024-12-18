@@ -1,1 +1,0 @@
-{"recipient":["This field may not be blank."],"otp":["This field may not be blank."]}

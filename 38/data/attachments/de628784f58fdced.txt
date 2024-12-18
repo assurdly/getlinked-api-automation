@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Intranet Designer Interview Pack"
-}
