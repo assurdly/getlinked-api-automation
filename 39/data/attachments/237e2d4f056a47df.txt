@@ -1,1 +1,0 @@
-[{"id":"e0ba5b50-f20b-4ede-8da5-b97df3631430","question_set":[],"name":"Ist Section","description":"How are you now?","recruiter":10},{"id":"c7d4fd96-1ebc-47bf-a54c-d7530e9b43cd","question_set":[],"name":"Direct Usability Assistant Interview Pack","description":null,"recruiter":10}]

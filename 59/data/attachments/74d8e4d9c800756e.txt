@@ -1,0 +1,10 @@
+{
+    "first_name": "Everette",
+    "last_name": "Ratke",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408080450205",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Emilio","middle_name":null,"last_name":"Grimes","email":"Vladimir@mailinator.com","phone_number":"+2348080450205","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}

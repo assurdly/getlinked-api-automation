@@ -1,8 +1,0 @@
-{
-    "invitation_token": "eyJyZWNpcGllbnRfZW1haWwiOiJhZm9sYWJpQG1haWxpbmF093IuY29tIiwiY29tcGFueV9pZCI5MTAsIklzX3JlY3J1aXRlciI6dHJ1ZSwicm9sZSI6NCwidHlwZV9vZl9yZWNydWl0ZXIiOiJIUl9QRVJTT05ORUwifQ:1tDmZp:ZNyZwvYfw3KklRfDruX13_iVAQnl4nVrV8CW2ZGEp3Q",
-    "first_name": "Ayobamidele",
-    "last_name": "Alaran",
-    "phone_number": "09143423843",
-    "gender": "male",
-    "password": "JustLiberty1@"
-}
