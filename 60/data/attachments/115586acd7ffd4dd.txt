@@ -1,0 +1,10 @@
+{
+    "first_name": "Carleton",
+    "last_name": "Metz",
+    "email": "Rosetta@mailinator.com",
+    "phone_number": "+23408023492882",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
