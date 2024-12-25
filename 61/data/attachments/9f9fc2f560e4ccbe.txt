@@ -1,0 +1,10 @@
+{
+    "first_name": "Audie",
+    "last_name": "Littel",
+    "email": "Ruthe@mailinator.com",
+    "phone_number": "+23408017194064",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
