@@ -1,4 +1,0 @@
-{
-    "recipient": "Elyssa@yopmail.com",
-    "otp": "808080"
-}
