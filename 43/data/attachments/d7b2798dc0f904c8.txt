@@ -1,3 +1,0 @@
-{
-    "name": "Customer Integration Assistant Interview Pack"
-}

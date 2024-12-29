@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Jerrod","middle_name":null,"last_name":"Hintz","email":"Frederique@yopmail.com","phone_number":"+2348076883876","date_of_birth":"1995-12-08","gender":"M","address":null},"errors":null}
