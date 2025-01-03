@@ -1,3 +1,0 @@
-{
-    "name": "Investor Response Manager Interview Pack"
-}
