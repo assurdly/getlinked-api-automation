@@ -1,5 +1,0 @@
-{
-    "section": "10dbed9d-4d28-4518-9031-3a63fa4d8a96",
-    "question": "What is optical Japan Tasty Incredible of ?",
-    "time": 4000
-}

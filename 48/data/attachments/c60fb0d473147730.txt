@@ -1,3 +1,0 @@
-{
-    "name": "Chief Accountability Planner Interview Pack"
-}
