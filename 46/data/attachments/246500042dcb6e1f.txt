@@ -1,3 +1,0 @@
-{
-    "name": "Future Division Analyst Interview Pack"
-}
