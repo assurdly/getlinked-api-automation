@@ -1,0 +1,8 @@
+{
+    "assessment_interview":"b34abb02-2985-4c2d-ba6c-79537c6ddcc4",
+    "candidates":[
+        {"name": "Felicia Fisher", "email": "Kiley@mailinator.com"}
+    ],
+    "is_from_job_post": "False",
+    "auth_method": ["email"]
+}

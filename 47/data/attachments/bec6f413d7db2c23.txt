@@ -1,3 +1,0 @@
-{
-    "name": "Principal Division Executive Interview Pack"
-}

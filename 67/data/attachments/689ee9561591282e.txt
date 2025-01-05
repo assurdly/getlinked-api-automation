@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Oran","middle_name":null,"last_name":"Bauch","email":"Maude@mailinator.com","phone_number":"+2348015888252","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
