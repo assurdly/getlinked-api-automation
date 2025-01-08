@@ -1,3 +1,0 @@
-{
-    "name": "Legacy Implementation Manager Interview Pack"
-}

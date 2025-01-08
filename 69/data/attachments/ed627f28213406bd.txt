@@ -1,0 +1,10 @@
+{
+    "first_name": "Paula",
+    "last_name": "Will",
+    "email": "Brittany_Hane20@hotmail.com",
+    "phone_number": "+23408083384272",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
