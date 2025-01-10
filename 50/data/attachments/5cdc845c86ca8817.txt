@@ -1,3 +1,0 @@
-{
-    "name": "District Creative Director Interview Pack"
-}
