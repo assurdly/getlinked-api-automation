@@ -1,0 +1,10 @@
+{
+    "first_name": "Reba",
+    "last_name": "Walsh",
+    "email": "Elaina@mailinator.com",
+    "phone_number": "+23408062866356",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Marcella",
+    "last_name": "Anderson",
+    "email": "ibejihdanielgmail.com",
+    "phone_number": "+23408062866356",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

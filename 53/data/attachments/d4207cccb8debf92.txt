@@ -1,3 +1,0 @@
-{
-    "name": "Corporate Implementation Facilitator Interview Pack"
-}
