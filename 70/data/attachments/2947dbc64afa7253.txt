@@ -1,0 +1,10 @@
+{
+    "first_name": "Mack",
+    "last_name": "Heller",
+    "email": "Josephine_Gleason@gmail.com",
+    "phone_number": "+23408076833365",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

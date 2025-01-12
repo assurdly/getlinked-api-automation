@@ -1,3 +1,0 @@
-{
-    "name": "Chief Implementation Engineer Interview Pack"
-}
