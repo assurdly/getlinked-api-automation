@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Greta","middle_name":null,"last_name":"Champlin","email":"Charley@mailinator.com","phone_number":"+2348065802555","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
