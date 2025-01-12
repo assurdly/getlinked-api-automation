@@ -1,0 +1,6 @@
+{
+    "first_name": "Ayobami",
+    "middle_name": "Abd",
+    "last_name": "Alaran",
+    "address": "Some"
+}

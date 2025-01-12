@@ -1,0 +1,7 @@
+{
+    "job_application_ids": [203, 196],
+    
+    "group_name": "Alpha2",
+    "email": "arike@mailinator.com",
+    "cv_parser_ids": [23]
+}

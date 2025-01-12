@@ -1,0 +1,4 @@
+{
+    "candidate_ids": ["a2bed3db-78de-45e3-86f5-02624d64a1c2"],
+    "interview_id": "19368ca5-64f5-4038-889b-a55cafc9701c"
+}
