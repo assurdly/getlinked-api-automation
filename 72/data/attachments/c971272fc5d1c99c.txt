@@ -1,0 +1,1 @@
+level: warn, messages: Form param `logo`, file load error: "Fk1L7veQC/download (1).jpg", no such file
