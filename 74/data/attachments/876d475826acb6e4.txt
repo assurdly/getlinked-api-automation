@@ -1,0 +1,10 @@
+{
+    "first_name": "Arnoldo",
+    "last_name": "Ritchie",
+    "email": "Ashly56@yahoo.com",
+    "phone_number": "+23408072116422",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

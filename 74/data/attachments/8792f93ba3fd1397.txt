@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Wava","middle_name":null,"last_name":"Brakus","email":"Evangeline@mailinator.com","phone_number":"+2348029365613","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
