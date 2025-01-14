@@ -1,3 +1,0 @@
-{
-    "name": "Corporate Operations Director Interview Pack"
-}

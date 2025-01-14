@@ -1,0 +1,10 @@
+{
+    "first_name": "Mina",
+    "last_name": "Zboncak",
+    "email": "Katlynn_Fritsch@gmail.com",
+    "phone_number": "+23408016582679",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
