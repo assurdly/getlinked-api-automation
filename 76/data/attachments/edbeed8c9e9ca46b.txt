@@ -1,0 +1,1 @@
+{"assessment":{"name":"","description":""},"candidate_email":"","candidate_name":"","total_score":null,"job_application":null,"overall_percentage":null,"invite_date":null,"date_taken":null,"time_started":null,"time_ended":null,"total_questions":null,"total_questions_answered":null}
