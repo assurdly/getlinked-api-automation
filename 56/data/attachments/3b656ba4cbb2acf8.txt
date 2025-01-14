@@ -1,3 +1,0 @@
-{
-    "name": "Product Solutions Agent Interview Pack"
-}

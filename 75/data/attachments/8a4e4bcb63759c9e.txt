@@ -1,0 +1,13 @@
+[
+    {
+        "recipient_email": "Marcella@mailinator.com",
+        "role_id": 37, 
+        "type_of_recruiter": "PERSONAL_RECRUITER"
+    }
+
+    
+    
+    
+    
+    
+]

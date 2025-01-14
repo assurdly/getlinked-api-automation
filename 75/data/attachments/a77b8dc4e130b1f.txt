@@ -1,0 +1,1 @@
+{"status":"success","status_code":null,"data":{"first_name":"Lizzie","middle_name":null,"last_name":"Gerhold","email":"Gabrielle@mailinator.com","phone_number":"+2348064868097","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
