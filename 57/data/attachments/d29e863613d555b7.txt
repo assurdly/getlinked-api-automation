@@ -1,5 +1,0 @@
-{
-    "name": "Quality Assessment",
-    "role": 2,
-    "role_level": ""
-}

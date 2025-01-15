@@ -1,4 +1,0 @@
-{
-    "description": "This is a test assessment", 
-    "days":3
-}

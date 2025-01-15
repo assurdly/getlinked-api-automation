@@ -1,1 +1,0 @@
-{"candidate_email":["This field may not be blank."],"assessment_id":["Must be a valid UUID."]}

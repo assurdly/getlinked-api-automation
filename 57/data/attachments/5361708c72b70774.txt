@@ -1,3 +1,0 @@
-{
-    "name": "Customer Brand Director Interview Pack"
-}
