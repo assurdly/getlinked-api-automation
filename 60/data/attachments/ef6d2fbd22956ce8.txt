@@ -1,3 +1,0 @@
-{
-    "name": "Corporate Intranet Agent Interview Pack"
-}

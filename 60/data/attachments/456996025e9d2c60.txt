@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"first_name":"Carleton","middle_name":null,"last_name":"Metz","email":"Rosetta@mailinator.com","phone_number":"+2348023492882","date_of_birth":"1995-12-08","gender":"F","address":null},"errors":null}
