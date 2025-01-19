@@ -1,0 +1,10 @@
+{
+    "first_name": "Ewald",
+    "last_name": "Schiller",
+    "email": "Aaliyah@mailinator.com",
+    "phone_number": "+23408091994902",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

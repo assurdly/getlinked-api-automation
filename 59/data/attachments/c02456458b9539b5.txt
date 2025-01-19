@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Branding Architect Interview Pack"
-}
