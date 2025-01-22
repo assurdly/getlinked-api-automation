@@ -1,3 +1,0 @@
-{
-    "name": "Internal Quality Technician Interview Pack"
-}
