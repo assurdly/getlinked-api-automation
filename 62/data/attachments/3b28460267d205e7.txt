@@ -1,3 +1,0 @@
-{
-    "name": "Lead Factors Supervisor Interview Pack"
-}

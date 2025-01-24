@@ -1,0 +1,10 @@
+{
+    "first_name": "Lacy",
+    "last_name": "Lubowitz",
+    "email": "Aurelio@mailinator.com",
+    "phone_number": "+23408060530962",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
