@@ -1,0 +1,10 @@
+{
+    "first_name": "Roosevelt",
+    "last_name": "Schmitt",
+    "email": "Addie44@gmail.com",
+    "phone_number": "+23408079039959",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}
