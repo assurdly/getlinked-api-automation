@@ -1,3 +1,0 @@
-{
-    "name": "Chief Division Planner Interview Pack"
-}
