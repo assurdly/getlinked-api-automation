@@ -1,1 +1,0 @@
-{"id":"fda9e01c-823a-4039-8134-41b12197dff8","name":"Testing Update Two","questions":[],"role":3,"role_level":"entry_level","creator":10,"start_time":null,"deadline":null,"total_questions":0,"no_candidates":0,"completed":[],"paused":[],"ongoing":[],"not_started":[],"is_published":false}

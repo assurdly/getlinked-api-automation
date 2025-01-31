@@ -1,3 +1,0 @@
-{
-    "name": "Lead Functionality Engineer Interview Pack"
-}
