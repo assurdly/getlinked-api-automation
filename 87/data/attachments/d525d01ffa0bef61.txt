@@ -1,0 +1,10 @@
+{
+    "first_name": "Zena",
+    "last_name": "Bradtke",
+    "email": "Herminia@mailinator.com",
+    "phone_number": "+23408058917088",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

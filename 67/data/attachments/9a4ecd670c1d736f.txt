@@ -1,1 +1,0 @@
-{"name":["This field may not be blank."],"is_default":["Must be a valid boolean."]}

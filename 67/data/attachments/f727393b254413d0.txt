@@ -1,5 +1,0 @@
-{
-    "name": "Culture Fit",
-    "role": 1,
-    "role_level": "entry_level"
-}

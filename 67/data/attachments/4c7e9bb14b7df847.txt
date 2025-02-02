@@ -1,5 +1,0 @@
-{
-    "section": "",
-    "question": "",
-    "time": ""
-}

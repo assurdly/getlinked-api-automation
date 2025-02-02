@@ -1,5 +1,0 @@
-{
-    "name": "Science Assessment",
-    "role": 2,
-    "role_level": "entry_level"
-}

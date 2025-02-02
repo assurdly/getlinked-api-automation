@@ -1,0 +1,10 @@
+{
+    "first_name": "Jorge",
+    "last_name": "Wuckert",
+    "email": "Tito72@yahoo.com",
+    "phone_number": "+23408093371633",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

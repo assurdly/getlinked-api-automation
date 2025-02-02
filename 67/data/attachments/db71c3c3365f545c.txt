@@ -1,3 +1,0 @@
-{
-    "name": "Lead Accountability Facilitator Interview Pack"
-}

@@ -1,5 +1,0 @@
-{
-    "job_unique_id": "ce2a237d-5eec-4218-90b5-5911cc8081a1",
-    "job_application_ids" : [23],
-    "stage_id" : 97
-}

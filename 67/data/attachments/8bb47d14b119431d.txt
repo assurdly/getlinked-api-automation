@@ -1,4 +1,0 @@
-{
-    "role_id": "2",
-    "role_level": "entry_level"
-}
