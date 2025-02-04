@@ -1,3 +1,0 @@
-{
-    "name": "Corporate Security Architect Interview Pack"
-}

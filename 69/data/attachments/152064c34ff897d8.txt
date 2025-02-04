@@ -1,1 +1,0 @@
-{"group_id":25,"group_name":"Alpha2","email":"arike@mailinator.com","unique_id":"ebd03709-4c38-4ade-8071-0857a505adfe1736361550"}
