@@ -1,0 +1,1 @@
+{"error":"No Recruiter found with the same email as the request user's email."}
