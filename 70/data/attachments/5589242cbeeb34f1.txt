@@ -1,5 +1,0 @@
-{
-    "name": "",
-    "role": 1,
-    "role_level": ""
-}

@@ -1,0 +1,697 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","110","track_job_view-Empty field","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","track_job_view","Jobs","",""
+"","94","No auth - result by job application","GetLinked-Recruiter","Fri Feb 07 18:54:49 GMT 2025","passed","Fri Feb 07 18:54:49 GMT 2025","Result Managment > result by job application","Assessment and interview","",""
+"","97","fetch jobs-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:30 GMT 2025","passed","Fri Feb 07 18:54:30 GMT 2025","Fetch jobs","Jobs","",""
+"","105","ExcelFileAnalysis","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:42 GMT 2025","Invitation","Assessment and interview","",""
+"","115","delete pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Delete pipeline","Jobs","",""
+"","187","list interview packs","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > List interview packs","Assessment and interview","",""
+"","127","Create Question in Question Pack","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Create Question in Question Pack","Assessment and interview","",""
+"","3718","generate role responsibilities","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","passed","Fri Feb 07 18:54:28 GMT 2025","Generate role& responsibilities","Jobs","",""
+"","115","upload bulk cv to pipeline-Zip file","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","failed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Upload bulk CV","Jobs","",""
+"","109","candidate_job_application_progression-Invalid_Job _Unique_ID","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > candidate job application","Jobs","",""
+"","128","retreive an assessment","GetLinked-Recruiter","Fri Feb 07 18:54:40 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment > Retrieve Asessment","Assessment and interview","",""
+"","114","delete a pipeline stage-Invalid stage ID","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > Delete","Jobs","",""
+"","114","edit comment","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","passed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > edit comment","Assessment and interview","",""
+"","119","Upload Bulk Questions","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","failed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Upload Bulk Questions","Assessment and interview","",""
+"","182","No auth - candidate answers","GetLinked-Recruiter","Fri Feb 07 18:54:49 GMT 2025","passed","Fri Feb 07 18:54:49 GMT 2025","Result Managment > candidate answers","Assessment and interview","",""
+"","94","fetch my job pipelines-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > Fetch my job pipelines","Jobs","",""
+"","112","acceptTeamInvite","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","passed","Fri Feb 07 18:55:06 GMT 2025","acceptTeamInvite","Team members","",""
+"","111","edit comment-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Update a comment","Jobs","",""
+"","110","Get a single role","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Role","Assessment and interview","",""
+"","115","fetch filtered group","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetchFilteredGroup","Candidates","",""
+"","112","verify_email-invalid_email","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","company > company_email > verify_email","Onboarding","",""
+"","96","multiple_cv_upload-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > multipleCVUpload","Candidates","",""
+"","123","update percentage match score","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Update Percentage match score","Jobs","",""
+"","96","No auth - candidate result detail","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","Candidate result detail","Candidates","",""
+"","107","get a test","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Test","Assessment and interview","",""
+"","95","fetch filtered group-noEmail","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetchFilteredGroup","Candidates","",""
+"","96","invite external-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite External","Assessment and interview","",""
+"","132","CreateAssessment-ID Validation","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Create Assessment","Assessment and interview","",""
+"","95","bulk update-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > Bulk Update","Jobs","",""
+"","110","profileDetails","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","profileDetails","Profile","",""
+"","110","re arrange job pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > re-arrange job pipeline","Jobs","",""
+"","108","verify_email-empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","company > company_email > verify_email","Onboarding","",""
+"","109","get test recommendations Copy","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > Test Recommendation","Assessment and interview","",""
+"","114","edit comment","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Update a comment","Jobs","",""
+"","119","view_team _member_role_permission","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","GetTeamMemberRolePermission","Team members","",""
+"","99","invalid_email - resend registarion otp","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","passed","Fri Feb 07 18:54:05 GMT 2025","resend _registration _OTP","Onboarding","",""
+"","115","delete a comment","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","passed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > delete a comment","Assessment and interview","",""
+"","109","get_user_details","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","get_user_details","Onboarding","",""
+"","95","listTeam-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","listTeam","Team members","",""
+"Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)","115","job update-No ID","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","failed","Fri Feb 07 18:54:24 GMT 2025","Update job","Jobs","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","120","create_hr-empty_company_code","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_hr","Onboarding","",""
+"","96","fetch filtered group with no pagination-noEmail","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > fetchFilteredGroup-noPagination","Candidates","",""
+"","93","No auth - get comments on a result","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","passed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > get comments on a result","Assessment and interview","",""
+"","237","export pipeline stage","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","passed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Export pipeline stage","Jobs","",""
+"","113","remove job applicant from pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Remove job applicant","Jobs","",""
+"","112","recalculate matching score","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Recalculate matching score","Jobs","",""
+"","95","No auth - Edit question pack","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > Edit question pack","Assessment and interview","",""
+"","109","candidate_job_application_progression-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > candidate job application","Jobs","",""
+"","115","track_job_view-Invalid job unique_id","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","track_job_view","Jobs","",""
+"","110","delete a comment-Invalid Comment ID","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Delete Comment","Jobs","",""
+"","120","bulk update","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","failed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Bulk Update","Jobs","",""
+"","97","Invalid_email - forgot_password","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:07 GMT 2025","forgot_password","Onboarding","",""
+"","111","recruiter","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > delete_recruiter","Onboarding","",""
+"","96","No auth - Create Question Pack","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Create Question Pack","Assessment and interview","",""
+"","120","invite_external_candidate","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Invitation","Assessment and interview","",""
+"","94","deleteInterviewPack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > deleteInterviewPack","Assessment and interview","",""
+"","117","CreateAssessment-Empty Field","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Create Assessment","Assessment and interview","",""
+"","117","delete pipeline-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Delete pipeline","Jobs","",""
+"","94","profileDetails-No Auth","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","profileDetails","Profile","",""
+"","114","invite external -Invalid Interview ID","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:59 GMT 2025","Video Interview > invitation > Invite External","Assessment and interview","",""
+"","98","empty _field - forgot_password","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:07 GMT 2025","forgot_password","Onboarding","",""
+"Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)","154","job update","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","passed","Fri Feb 07 18:54:24 GMT 2025","Update job","Jobs","",""
+"","182","listTeam","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","listTeam","Team members","",""
+"","136","fetch _recruiters - valid_token","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > fetch_recruiters","Onboarding","",""
+"","93","No Auth - change_password","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","Change password","Profile","",""
+"","114","verify_company_email-valid _code","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","recruiter > verify_company_email","Onboarding","",""
+"","116","GetTeamMemberRolePermission-InvalidRoleID","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","GetTeamMemberRolePermission","Team members","",""
+"","108","delete a comment-No Comment ID","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Delete Comment","Jobs","",""
+"","112","Empty fields - change_password","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","Change password","Profile","",""
+"","119","delete job-Inexisting job","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","delete_job","Jobs","",""
+"","944","My questions","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:44 GMT 2025","Dashboards > My questions","Assessment and interview","",""
+"","97","refresh_token","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","refresh_ token","Onboarding","",""
+"Filter Params
+
+- role (can be a single string or comma seperated strings)
+- group (string)
+- industry (can be a single string or comma seperated strings)
+- skills (can be a single string or comma seperated strings)
+- years_of_experience (string)
+- location (can be a single string or comma seperated strings)
+- education (can be a single string or comma seperated strings)
+- language (can be a single string or comma seperated strings)
+    
+- keywords_percentage (comma seperated int values. e.g keywords_percentage=20,75)","109","fetch data","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > fetchData","Candidates","",""
+"","95","empty_fields - password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","failed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","120","updateAsessmentInterviewDate","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > editAsessmentInterview","Assessment and interview","",""
+"","110","add or remove questions to assessment interview- Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > add or remove questions to assessment interview","Assessment and interview","",""
+"job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT","122","create_job-Invalid job type","GetLinked-Recruiter","Fri Feb 07 18:54:23 GMT 2025","passed","Fri Feb 07 18:54:23 GMT 2025","Create job","Jobs","",""
+"","114","upload bulk cv to pipeline-PDF","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","failed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Upload bulk CV","Jobs","",""
+"","116","empty field - update_account_details","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","update_account_details","Onboarding","",""
+"","122","inviteFromJobPipeline","GetLinked-Recruiter","Fri Feb 07 18:54:59 GMT 2025","passed","Fri Feb 07 18:54:59 GMT 2025","Video Interview > inviteFromJobPipeline","Assessment and interview","",""
+"","116","update percentage match score-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Update Percentage match score","Jobs","",""
+"","150","get job details","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","get job details","Jobs","",""
+"","116","UpdateTeamMemberRole-invalidRoleID","GetLinked-Recruiter","Fri Feb 07 18:55:09 GMT 2025","passed","Fri Feb 07 18:55:09 GMT 2025","UpdateTeamMemberRole","Team members","",""
+"","1741","fetch jobs","GetLinked-Recruiter","Fri Feb 07 18:54:28 GMT 2025","passed","Fri Feb 07 18:54:30 GMT 2025","Fetch jobs","Jobs","",""
+"","210","get comments on an applicant","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","JOB PIPELINE > Comment > Comment on an applicant","Jobs","",""
+"","116","Edit assesment interview","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > Edit Assesment Interview","Assessment and interview","",""
+"","122","create question in  interview pack-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Create Question in i nterview pack","Assessment and interview","",""
+"","142","Edit question pack","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > Edit question pack","Assessment and interview","",""
+"","110","Individual candidate result detail-Invalid result ID","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > Individual candidate result detail","Assessment and interview","",""
+"","112","create_company-existing_company","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","failed","Fri Feb 07 18:54:10 GMT 2025","company > create_company","Onboarding","",""
+"","115","update stages-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Update stages","Jobs","",""
+"","93","update stages-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Update stages","Jobs","",""
+"","94","No auth - get_single_detail_global_intern","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","get_single_detail_global_intern","Talent pool","",""
+"","110","has _updated _password","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","has_updated_password","Onboarding","",""
+"","96","multiple_cv_upload","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > multipleCVUpload","Candidates","",""
+"","126","add or remove questions to assessment interview-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","failed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > add or remove questions to assessment interview","Assessment and interview","",""
+"","122","Create Question Pack","GetLinked-Recruiter","Fri Feb 07 18:54:50 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Create Question Pack","Assessment and interview","",""
+"","148","get result overview","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","failed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > get result overview","Assessment and interview","",""
+"","99","invalid _OTP - verify_account","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:05 GMT 2025","verify_account","Onboarding","",""
+"","123","invite external candidates","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","failed","Fri Feb 07 18:54:42 GMT 2025","Invitation","Assessment and interview","",""
+"","362","add section to assessment Copy","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > SectionAssessment","Assessment and interview","",""
+"","94","No auth - get result overview","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","passed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > get result overview","Assessment and interview","",""
+"","95","update percentage match score-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Update Percentage match score","Jobs","",""
+"","134","UpdateTeamMemberRole","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:09 GMT 2025","UpdateTeamMemberRole","Team members","",""
+"","115","re arrange job pipeline-Invalid Stages","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > re-arrange job pipeline","Jobs","",""
+"","112","updateProfile","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","updateProfile","Profile","",""
+"","110","assessment interview detail-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > assessment interview detail","Assessment and interview","",""
+"","95","No auth - export assessment report","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","passed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > export assessment report","Assessment and interview","",""
+"","95","getPermissions-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","getPermissions","Team members","",""
+"","241","My assessments","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Dashboards > My assessments","Assessment and interview","",""
+"","115","Invalid email - register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","108","recalculate matching score-Invalid IDs","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Recalculate matching score","Jobs","",""
+"","94","list interview packs-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > List interview packs","Assessment and interview","",""
+"job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT","128","create_job-Invalid deadline date","GetLinked-Recruiter","Fri Feb 07 18:54:23 GMT 2025","passed","Fri Feb 07 18:54:24 GMT 2025","Create job","Jobs","",""
+"","128","invite candidates viia invite document","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:42 GMT 2025","Invitation","Assessment and interview","",""
+"","114","edit question in assessment","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment","Assessment and interview","",""
+"","116","list question pack questions","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > list question pack questions","Assessment and interview","",""
+"","94","No auth - list question pack questions","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > list question pack questions","Assessment and interview","",""
+"","95","get comments on an applicant-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Comment on an applicant","Jobs","",""
+"","112","filter values","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > filterValues","Candidates","",""
+"","98","recruiter-no_auth","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > recruiter","Onboarding","",""
+"","96","invalid_email- verify_account","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","failed","Fri Feb 07 18:54:05 GMT 2025","verify_account","Onboarding","",""
+"","96","no Auth - get_user_details","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","get_user_details","Onboarding","",""
+"","1046","generate intro message","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:40 GMT 2025","Assessment > Generate Intro Message","Assessment and interview","",""
+"","133","delete job","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","delete_job","Jobs","",""
+"","96","create_company-no_auth","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > create_company","Onboarding","",""
+"","116","create interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Video Interview > Create Interview pack","Assessment and interview","",""
+"","109","Get all roles","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Role","Assessment and interview","",""
+"","110","remove section from assessment","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment > DeleteQuestionfromAssessment","Assessment and interview","",""
+"","110","Invalid email - export candidate result","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","passed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > export candidate result","Assessment and interview","",""
+"","115","recruiter- valid_id","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > recruiter","Onboarding","",""
+"","96","No auth - List Question Packs","GetLinked-Recruiter","Fri Feb 07 18:54:50 GMT 2025","passed","Fri Feb 07 18:54:50 GMT 2025","Question Pack > List Question Packs","Assessment and interview","",""
+"","201","Empty fields - candidate answers","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","passed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > candidate answers","Assessment and interview","",""
+"","122","create a custom job pipeline-Empty Field","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Create a Custom job pipeline","Jobs","",""
+"","116","CreateAssessment-Name FieldSpecial Character Check","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Create Assessment","Assessment and interview","",""
+"","96","delete pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Delete pipeline","Jobs","",""
+"","132","post a comment-Invalid job application iD","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","failed","Fri Feb 07 18:54:14 GMT 2025","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","Jobs","",""
+"","137","candidate_job_application_progression","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","failed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > candidate job application","Jobs","",""
+"","109","resendInvite","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Invitation","Assessment and interview","",""
+"","98","recalculate matching score-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Recalculate matching score","Jobs","",""
+"","117","Invalid candidate id - remove candidate","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","Remove candidate","Candidates","",""
+"","96","delete pipeline-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Delete pipeline","Jobs","",""
+"","110","create_assement_interview_Empty field","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Create Assessment interview","Assessment and interview","",""
+"","143","fetch groups","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","CV PARSER > Group > fetchGroups","Candidates","",""
+"","110","Empty fields - talent_request","GetLinked-Recruiter","Fri Feb 07 18:55:03 GMT 2025","passed","Fri Feb 07 18:55:03 GMT 2025","talent_request","Talent pool","",""
+"","91","export filtered cvs-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > exportFilteredCV","Candidates","",""
+"","132","job pipeline details","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Job Pipeline details","Jobs","",""
+"","112","recalculate matching score-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","passed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Recalculate matching score","Jobs","",""
+"","96","create group-invalidEmail","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > createGroup","Candidates","",""
+"","115","DeleteAsessment-InvalidAssessmentID","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > Delete Assessment","Assessment and interview","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","113","create_-invalid _company_id","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_hr","Onboarding","",""
+"","120","invite for interview from assessment-Invalid Candidate ID","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > invitation > Invite for interview from assesment","Assessment and interview","",""
+"","94","No auth - delete a comment","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","passed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > delete a comment","Assessment and interview","",""
+"","96","filter jobs-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","Filter jobs","Jobs","",""
+"","96","No auth - My questions","GetLinked-Recruiter","Fri Feb 07 18:54:44 GMT 2025","passed","Fri Feb 07 18:54:44 GMT 2025","Dashboards > My questions","Assessment and interview","",""
+"","117","delete a pipeline stage","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > Delete","Jobs","",""
+"","95","Edit assesment interview-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > Edit Assesment Interview","Assessment and interview","",""
+"","96","forgot_password","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:07 GMT 2025","forgot_password","Onboarding","",""
+"","114","nonexisting_email - resend_registration _otp","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","passed","Fri Feb 07 18:54:05 GMT 2025","resend _registration _OTP","Onboarding","",""
+"","95","inviteFromJobPipeline-noAuth","GetLinked-Recruiter","Fri Feb 07 18:54:59 GMT 2025","passed","Fri Feb 07 18:54:59 GMT 2025","Video Interview > inviteFromJobPipeline","Assessment and interview","",""
+"","134","fetch filtered group with no pagination","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetchFilteredGroup-noPagination","Candidates","",""
+"","109","acceptTeamInvite-existingPhoneno","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","acceptTeamInvite","Team members","",""
+"","112","create group","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","failed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > createGroup","Candidates","",""
+"","382","invite external","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite External","Assessment and interview","",""
+"","112","Edit assesment interview-Invalid Assessment ID","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > Edit Assesment Interview","Assessment and interview","",""
+"","117","resend _otp-invalid_email","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > company_email > resend_OTP","Onboarding","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","125","personal_recruiter-valid _details","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_personal_recruiter","Onboarding","",""
+"","108","Mismatched password - change_password","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","Change password","Profile","",""
+"","94","Individual candidate result detail-No Auth","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > Individual candidate result detail","Assessment and interview","",""
+"","96","verify_email -no auth","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > company_email > verify_email","Onboarding","",""
+"","117","bulk update-Invalid Pipeline ID","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > Bulk Update","Jobs","",""
+"","95","password _complexity - password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","failed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","96","update job pipeline-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Update job pipeline","Jobs","",""
+"","94","candidate_job_application_progression-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > candidate job application","Jobs","",""
+"","95","inviteTeamMember-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","passed","Fri Feb 07 18:55:06 GMT 2025","inviteTeamMember","Team members","",""
+"","103","non_talent_job_list","GetLinked-Recruiter","Fri Feb 07 18:54:30 GMT 2025","passed","Fri Feb 07 18:54:30 GMT 2025","Non_talent _job_list","Jobs","",""
+"","115","resend_otp","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > company_email > resend_OTP","Onboarding","",""
+"","109","invite for interview from assessment - Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite for interview from assesment","Assessment and interview","",""
+"","95","GetTeamMembersRolePermission-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","GetTeamMembersRolePermission","Team members","",""
+"","120","delete job-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","delete_job","Jobs","",""
+"","108","create group-existingGroup","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > createGroup","Candidates","",""
+"","117","CreateAssessment-Empty role","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Create Assessment","Assessment and interview","",""
+"","121","inviteTeamMember-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","failed","Fri Feb 07 18:55:06 GMT 2025","inviteTeamMember","Team members","",""
+"","114","verify_email-Invalid OTP","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","company > company_email > verify_email","Onboarding","",""
+"","123","create question in  interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Create Question in i nterview pack","Assessment and interview","",""
+"","112","removeTeamMember","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","removeTeamMember","Team members","",""
+"","113","create company-no _logo","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > create_company","Onboarding","",""
+"","112","No email - existing_recruiter_talent_request","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","existing_recruiter_talent_request","Talent pool","",""
+"","104","fetch cv group data","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetch cv group data","Candidates","",""
+"","112","edit question in interview pack-Empty Field","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Edit Question  Interview","Assessment and interview","",""
+"","113","post a comment-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","Jobs","",""
+"","110","delete assessment interview-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > delete assessment interview","Assessment and interview","",""
+"","900","login","GetLinked-Recruiter","Fri Feb 07 18:54:06 GMT 2025","passed","Fri Feb 07 18:54:06 GMT 2025","login","Onboarding","",""
+"","119","DeleteAssessment-ValidAssessmentId","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > Delete Assessment","Assessment and interview","",""
+"","115","getPermissions","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","getPermissions","Team members","",""
+"","114","Create and add stages to pipeline-invalidPipeline","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Create and add stages to pipeline","Jobs","",""
+"","116","update job pipeline-Invalid PIpeline ID","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Update job pipeline","Jobs","",""
+"","131","company _recruiters - Valid ID","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > company_recruiters","Onboarding","",""
+"","153","fetch my job pipelines","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > Fetch my job pipelines","Jobs","",""
+"","110","retrieve an interview pack-Invalid Interview pack ID","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > retrieve an Interview pack","Assessment and interview","",""
+"","96","post a comment-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","Jobs","",""
+"","110","Create a role","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Role","Assessment and interview","",""
+"","111","acceptTeamInvite-mismatchedPassword","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","acceptTeamInvite","Team members","",""
+"","95","re arrange job pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > re-arrange job pipeline","Jobs","",""
+"","99","Fetch recruiters - No token","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > fetch_recruiters","Onboarding","",""
+"","114","verify_company_ email-Invalid_code","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > verify_company_email","Onboarding","",""
+"","110","companyDetails","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","companyDetails","Profile","",""
+"","158","list all assessment interviews","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > list all assesment interview","Assessment and interview","",""
+"","97","resend_otp -no_auth","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > company_email > resend_OTP","Onboarding","",""
+"","95","No auth -  Upload Bulk Questions","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Upload Bulk Questions","Assessment and interview","",""
+"","94","No auth - My assessments","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Dashboards > My assessments","Assessment and interview","",""
+"","111","create_a _personal _company","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","failed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","502","register","GetLinked-Recruiter","Fri Feb 07 18:54:03 GMT 2025","passed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","143","remove candidate","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","failed","Fri Feb 07 18:54:34 GMT 2025","Remove candidate","Candidates","",""
+"","108","getLogs","GetLinked-Recruiter","Fri Feb 07 18:54:43 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Invitation","Assessment and interview","",""
+"job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT","95","create_job-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","passed","Fri Feb 07 18:54:24 GMT 2025","Create job","Jobs","",""
+"job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT","1016","create_job","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","passed","Fri Feb 07 18:54:23 GMT 2025","Create job","Jobs","",""
+"","122","retrieve an interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > retrieve an Interview pack","Assessment and interview","",""
+"","91","list all assessment interviews-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > list all assesment interview","Assessment and interview","",""
+"","120","post a comment","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","JOB PIPELINE > Comment > Get Comment on Applicant > Post a Comment","Jobs","",""
+"Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)","114","job update-Empty fileds","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","passed","Fri Feb 07 18:54:24 GMT 2025","Update job","Jobs","",""
+"","114","empty_fields - register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","passed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","98","no_email - resend registration otp","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","failed","Fri Feb 07 18:54:06 GMT 2025","resend _registration _OTP","Onboarding","",""
+"","114","Empty fields - post a comment","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","failed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > post a comment","Assessment and interview","",""
+"","116","UpdateTeamMemberRole-InvalidTeamMemberID","GetLinked-Recruiter","Fri Feb 07 18:55:09 GMT 2025","passed","Fri Feb 07 18:55:09 GMT 2025","UpdateTeamMemberRole","Team members","",""
+"","202","Invalid email - candidate answers","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","passed","Fri Feb 07 18:54:49 GMT 2025","Result Managment > candidate answers","Assessment and interview","",""
+"","117","assessment interview detail","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > assessment interview detail","Assessment and interview","",""
+"","111","acceptTeamInvite-weakPassword","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","passed","Fri Feb 07 18:55:06 GMT 2025","acceptTeamInvite","Team members","",""
+"","116","invite for interview from assessment-Invalid Interview ID","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite for interview from assesment","Assessment and interview","",""
+"","136","update job pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Update job pipeline","Jobs","",""
+"","94","updateProfile-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","updateProfile","Profile","",""
+"","172","add section to assessment","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > SectionAssessment","Assessment and interview","",""
+"","94","fetch groups-noEmail","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetchGroups","Candidates","",""
+"","94","pagination - candidate result-No Auth","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > pagination - candidate result","Assessment and interview","",""
+"","112","No email - email_check","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","email_check","Talent pool","",""
+"","152","UpdateAssessment-TimeCheck","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > UpdateAssessment","Assessment and interview","",""
+"","161","password _complexity- register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","117","pagination - candidate result","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > pagination - candidate result","Assessment and interview","",""
+"","113","create_a_personal _company-empty_fields","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","129","candidate result detail","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","Candidate result detail","Candidates","",""
+"","93","getTeamMemberRoles-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","getTeamMemberRole","Team members","",""
+"","98","invalid_token - refresh _token","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","refresh_ token","Onboarding","",""
+"","94","create question in  interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Create Question in i nterview pack","Assessment and interview","",""
+"","119","create_assement_interview","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Create Assessment interview","Assessment and interview","",""
+"","96","mismatched _password - password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","failed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","141","My Candidates","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","failed","Fri Feb 07 18:54:33 GMT 2025","My Candidates","Candidates","",""
+"","94","add or remove questions to assessment interview-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > add or remove questions to assessment interview","Assessment and interview","",""
+"","107","FetchAllSections-","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > FetchAllSections","Assessment and interview","",""
+"Fields can you can update using this method are below. They're not required. That's why it's partial update.  
+  
+
+- name
+    
+- description
+    
+- job_type
+    
+- location
+    
+- salary_range
+    
+- salary_currency
+    
+- salary_negotiable (boolean)
+    
+- responsibilities (list)
+    
+- qualifications (list)
+    
+- skills_required
+    
+- application_deadline
+    
+- accepting_applications (boolean)","95","job update-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:24 GMT 2025","passed","Fri Feb 07 18:54:24 GMT 2025","Update job","Jobs","",""
+"","1240","List Question Packs","GetLinked-Recruiter","Fri Feb 07 18:54:49 GMT 2025","passed","Fri Feb 07 18:54:50 GMT 2025","Question Pack > List Question Packs","Assessment and interview","",""
+"","118","Delete Question in Pack","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Delete Question in Pack","Assessment and interview","",""
+"","95","job pipeline details-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Job Pipeline details","Jobs","",""
+"","100","fetch_talent_job_application","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_talent_job_application","Jobs","",""
+"","208","candidate answers","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","failed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > candidate answers","Assessment and interview","",""
+"","96","No auth - edit comment","GetLinked-Recruiter","Fri Feb 07 18:54:48 GMT 2025","passed","Fri Feb 07 18:54:48 GMT 2025","Result Managment > edit comment","Assessment and interview","",""
+"","110","get comments on a result","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","failed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > get comments on a result","Assessment and interview","",""
+"","102","create_a_personal _company-invalid_token","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","94","No auth - Add question pack to section","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > Add question pack to section","Assessment and interview","",""
+"","92","list questions in an interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > List Questions in an interview","Assessment and interview","",""
+"","107","deleteInterviewPack","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > deleteInterviewPack","Assessment and interview","",""
+"","136","edit section in assessment","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > SectionAssessment","Assessment and interview","",""
+"","97","generate role responsibilities-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:28 GMT 2025","passed","Fri Feb 07 18:54:28 GMT 2025","Generate role& responsibilities","Jobs","",""
+"","93","No auth - Delete Question in Pack","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Delete Question in Pack","Assessment and interview","",""
+"","626","candidate answer","GetLinked-Recruiter","Fri Feb 07 18:54:59 GMT 2025","passed","Fri Feb 07 18:54:59 GMT 2025","Video Interview > Candidate answer","Assessment and interview","",""
+"","116","Get Question Pack Details","GetLinked-Recruiter","Fri Feb 07 18:54:50 GMT 2025","passed","Fri Feb 07 18:54:50 GMT 2025","Question Pack > Get Question Pack Details","Assessment and interview","",""
+"","109","retrieve question","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:42 GMT 2025","Question","Assessment and interview","",""
+"","94","updateRolePermissions-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","updateRolePermission","Team members","",""
+"","111","acceptTeamInvite-invalidToken","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","acceptTeamInvite","Team members","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","112","personal_recruiter-empty_value","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_personal_recruiter","Onboarding","",""
+"","120","edit question in pack","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > edit question in pack","Assessment and interview","",""
+"","113","edit question in interview pack-Invalid Question and Interview Pack","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Edit Question  Interview","Assessment and interview","",""
+"","115","create_company-empt_fields","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > create_company","Onboarding","",""
+"","113","job pipeline details-Invalid job pipeline detail","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Job Pipeline details","Jobs","",""
+"","111","Success - change_password","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","Change password","Profile","",""
+"","132","add or remove questions to assessment interview","GetLinked-Recruiter","Fri Feb 07 18:54:56 GMT 2025","passed","Fri Feb 07 18:54:56 GMT 2025","Video Interview > add or remove questions to assessment interview","Assessment and interview","",""
+"","114","company_recruiters - invalid_Id","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > company_recruiters","Onboarding","",""
+"","94","No auth - post a comment","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","passed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > post a comment","Assessment and interview","",""
+"","111","create interview pack-Empty Field","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > Create Interview pack","Assessment and interview","",""
+"","98","empty_fields - verify_account","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","failed","Fri Feb 07 18:54:05 GMT 2025","verify_account","Onboarding","",""
+"","128","update percentage match score-Invalid job app ID","GetLinked-Recruiter","Fri Feb 07 18:54:21 GMT 2025","failed","Fri Feb 07 18:54:21 GMT 2025","JOB PIPELINE > Update Percentage match score","Jobs","",""
+"","97","create company-invalid_token","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > create_company","Onboarding","",""
+"","256","fetch all tests","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:42 GMT 2025","Test","Assessment and interview","",""
+"","116","bulk update-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > Bulk Update","Jobs","",""
+"","95","upload bulk cv to pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","passed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Upload bulk CV","Jobs","",""
+"","113","verify_company_email-expired _OTP","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:14 GMT 2025","recruiter > verify_company_email","Onboarding","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","112","create_hr-empty _field","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_hr","Onboarding","",""
+"","97","delete question in interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Delete Question in interview pack","Assessment and interview","",""
+"","95","No auth - export candidate result","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","passed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > export candidate result","Assessment and interview","",""
+"","499","Invalid_password - login","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:07 GMT 2025","login","Onboarding","",""
+"","121","move parsed cv to a group","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > moveParsedCVToAGroup","Candidates","",""
+"","111","get comments on an applicant-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:14 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Comment on an applicant","Jobs","",""
+"","97","multiple_cv_upload-emptyFields-ExistingGroupName","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","failed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > multipleCVUpload","Candidates","",""
+"","104","export filtered cvs","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:36 GMT 2025","CV PARSER > Group > exportFilteredCV","Candidates","",""
+"","188","Add question pack to section","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","failed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > Add question pack to section","Assessment and interview","",""
+"","94","GetTeamMemberRolePermission-noAuth","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","GetTeamMemberRolePermission","Team members","",""
+"","124","GetTeamMembersRolePermission","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","GetTeamMembersRolePermission","Team members","",""
+"","110","reorder-sections","GetLinked-Recruiter","Fri Feb 07 18:54:37 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > SectionAssessment","Assessment and interview","",""
+"","115","create_company","GetLinked-Recruiter","Fri Feb 07 18:54:10 GMT 2025","passed","Fri Feb 07 18:54:10 GMT 2025","company > create_company","Onboarding","",""
+"","95","track_job_view -Invalid token","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","track_job_view","Jobs","",""
+"","94","fetch industries","GetLinked-Recruiter","Fri Feb 07 18:54:28 GMT 2025","passed","Fri Feb 07 18:54:28 GMT 2025","Fetch Industries","Jobs","",""
+"","122","update stages","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Update stages","Jobs","",""
+"","121","updateRolePermissions-invalidPermissionID","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","updateRolePermission","Team members","",""
+"","117","Create and add stages to pipeline-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","failed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Create and add stages to pipeline","Jobs","",""
+"","108","invalid_OTP - password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","118","already _existing _user - register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","538","filter jobs","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","Filter jobs","Jobs","",""
+"","121","assessment detail","GetLinked-Recruiter","Fri Feb 07 18:54:44 GMT 2025","passed","Fri Feb 07 18:54:44 GMT 2025","Dashboards > Assessment detail","Assessment and interview","",""
+"","199","filter test recommendations","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > Test Recommendation","Assessment and interview","",""
+"","94","no _auth - update_account_details","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","update_account_details","Onboarding","",""
+"","1514","export assessment report","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","passed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > export assessment report","Assessment and interview","",""
+"","121","updateRolePermissions-invalidRoleID","GetLinked-Recruiter","Fri Feb 07 18:55:08 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","updateRolePermission","Team members","",""
+"","185","fetch_job_applications_in_job-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_job_applications","Jobs","",""
+"","95","invalid_email - login","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:07 GMT 2025","login","Onboarding","",""
+"","94","create_assement_interview_new-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Create Assessment interview","Assessment and interview","",""
+"","119","invalid_name - register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","98","create_ a_ personal _company-invalid_ company_type","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","95","No auth - My Candidates","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","My Candidates","Candidates","",""
+"","112","fetch_job_applications_in_job-Invalid job unique ID","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_job_applications","Jobs","",""
+"","144","No candidate id - remove candidate","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","failed","Fri Feb 07 18:54:34 GMT 2025","Remove candidate","Candidates","",""
+"","131","Create and add stages to pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Create and add stages to pipeline","Jobs","",""
+"","111","invite external-Empty fields","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite External","Assessment and interview","",""
+"","99","verify_account","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","failed","Fri Feb 07 18:54:05 GMT 2025","verify_account","Onboarding","",""
+"","96","invalid_email - password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","failed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","116","global_intern_detail_view","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","global_intern_detail_view","Talent pool","",""
+"","115","update stages-Invalid Assesment ID","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","failed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Update stages","Jobs","",""
+"","277","fetch_all_companies","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > get _all_companies","Onboarding","",""
+"","131","create a custom job pipeline","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Create a Custom job pipeline","Jobs","",""
+"","198","Job pipeline invitation","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:43 GMT 2025","Invitation","Assessment and interview","",""
+"","111","export candidate result","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","failed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > export candidate result","Assessment and interview","",""
+"","109","Password complexity- change_password","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","Change password","Profile","",""
+"","379","resend_ registration_otp","GetLinked-Recruiter","Fri Feb 07 18:54:05 GMT 2025","failed","Fri Feb 07 18:54:05 GMT 2025","resend _registration _OTP","Onboarding","",""
+"","397","fetch_job_applications_in_job","GetLinked-Recruiter","Fri Feb 07 18:54:30 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_job_applications","Jobs","",""
+"","118","delete question in interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Delete Question in interview pack","Assessment and interview","",""
+"","95","delete a pipeline stage-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > Delete","Jobs","",""
+"","113","update_account_details","GetLinked-Recruiter","Fri Feb 07 18:54:08 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","update_account_details","Onboarding","",""
+"","116","result by job application","GetLinked-Recruiter","Fri Feb 07 18:54:49 GMT 2025","passed","Fri Feb 07 18:54:49 GMT 2025","Result Managment > result by job application","Assessment and interview","",""
+"","96","edit question in interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > Edit Question  Interview","Assessment and interview","",""
+"","95","No auth - assessment detail","GetLinked-Recruiter","Fri Feb 07 18:54:44 GMT 2025","passed","Fri Feb 07 18:54:45 GMT 2025","Dashboards > Assessment detail","Assessment and interview","",""
+"","96","create a custom job pipeline-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Create a Custom job pipeline","Jobs","",""
+"","1147","talent_request","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:03 GMT 2025","talent_request","Talent pool","",""
+"","95","Create and add stages to pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Create and add stages to pipeline","Jobs","",""
+"","112","Invalid email - get result overview","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","failed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > get result overview","Assessment and interview","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","118","create_agency_recruiter","GetLinked-Recruiter","Fri Feb 07 18:54:12 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_hr","Onboarding","",""
+"","96","update stages-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:18 GMT 2025","passed","Fri Feb 07 18:54:18 GMT 2025","JOB PIPELINE > Update stages","Jobs","",""
+"","98","fetch jobs-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:30 GMT 2025","passed","Fri Feb 07 18:54:30 GMT 2025","Fetch jobs","Jobs","",""
+"job_types are :
+
+- FULL_TIME
+- PART_TIME
+- INTERNSHIP
+- CONTRACT
+- VOLUNTEER
+    
+
+job status:
+
+- DRAFT
+- OPEN
+- CLOSED
+    
+
+proficiency level
+
+- INTERN
+- ENTRY_LEVEL
+- MID_LEVEL
+- SENIOR_LEVEL
+    
+
+type of assessment
+
+- GENERIC_ASSESSMENT
+- CUSTOM_ASSESSMENT","123","create_job-Empty Fields","GetLinked-Recruiter","Fri Feb 07 18:54:23 GMT 2025","passed","Fri Feb 07 18:54:23 GMT 2025","Create job","Jobs","",""
+"","111","getTeamMemberRoles","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","getTeamMemberRole","Team members","",""
+"","99","fetch groups-invalidEmail","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > fetchGroups","Candidates","",""
+"","117","check_user_status","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","check_user_status","Talent pool","",""
+"","117","fetch all Sections","GetLinked-Recruiter","Fri Feb 07 18:54:36 GMT 2025","passed","Fri Feb 07 18:54:37 GMT 2025","Assessment Section > FetchAllSections","Assessment and interview","",""
+"","94","update job pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Update job pipeline","Jobs","",""
+"","97","candidate answer-Valid","GetLinked-Recruiter","Fri Feb 07 18:54:59 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > Candidate answer","Assessment and interview","",""
+"","110","create_a _personal_ company-existing_company","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","failed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","121","filter jobs-Invalid status","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","Filter jobs","Jobs","",""
+"","112","list questions in an interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > List Questions in an interview","Assessment and interview","",""
+"","112","additional invite","GetLinked-Recruiter","Fri Feb 07 18:54:42 GMT 2025","passed","Fri Feb 07 18:54:42 GMT 2025","Invitation","Assessment and interview","",""
+"","95","retrieve an interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > retrieve an Interview pack","Assessment and interview","",""
+"","131","mismatched_password - register","GetLinked-Recruiter","Fri Feb 07 18:54:04 GMT 2025","failed","Fri Feb 07 18:54:04 GMT 2025","register","Onboarding","",""
+"","109","delete a comment","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Delete Comment","Jobs","",""
+"","113","add selected questions","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment","Assessment and interview","",""
+"","94","assessment interview detail-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > assessment interview detail","Assessment and interview","",""
+"","135","CreateAssessment-ResponseCheck","GetLinked-Recruiter","Fri Feb 07 18:54:38 GMT 2025","passed","Fri Feb 07 18:54:38 GMT 2025","Assessment > Create Assessment","Assessment and interview","",""
+"","115","create_a_personal_company- no_logo","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:11 GMT 2025","company > create_personal_company","Onboarding","",""
+"","110","Update Assessment-Validatereturneddetails","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > UpdateAssessment","Assessment and interview","",""
+"","131","get_single_detail_global_intern","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","get_single_detail_global_intern","Talent pool","",""
+"","96","create a custom job pipeline-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Create a Custom job pipeline","Jobs","",""
+"","251","add question","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment > Add Question","Assessment and interview","",""
+"","93","delete assessment interview-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > delete assessment interview","Assessment and interview","",""
+"","95","edit comment-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Update a comment","Jobs","",""
+"","97","job pipeline details-Invalid Token","GetLinked-Recruiter","Fri Feb 07 18:54:17 GMT 2025","passed","Fri Feb 07 18:54:17 GMT 2025","JOB PIPELINE > Job Pipeline details","Jobs","",""
+"","112","recruiter pipelines","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > recruiter pipeline","Jobs","",""
+"","991","onboard_as_global_intern - new user","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:01 GMT 2025","onboard_as_global_intern - new user","Talent pool","",""
+"","96","No auth - Get Question Pack Details","GetLinked-Recruiter","Fri Feb 07 18:54:50 GMT 2025","passed","Fri Feb 07 18:54:50 GMT 2025","Question Pack > Get Question Pack Details","Assessment and interview","",""
+"","370","inviteTeamMember","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:06 GMT 2025","inviteTeamMember","Team members","",""
+"","111","existing_recruiter_talent_request","GetLinked-Recruiter","Fri Feb 07 18:55:03 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","existing_recruiter_talent_request","Talent pool","",""
+"","109","updateProfile-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","updateProfile","Profile","",""
+"","116","edit comment-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:15 GMT 2025","passed","Fri Feb 07 18:54:15 GMT 2025","JOB PIPELINE > Comment > Update a comment","Jobs","",""
+"","94","password_reset","GetLinked-Recruiter","Fri Feb 07 18:54:07 GMT 2025","passed","Fri Feb 07 18:54:08 GMT 2025","password_reset","Onboarding","",""
+"","117","update job pipeline -Empty Filelds","GetLinked-Recruiter","Fri Feb 07 18:54:16 GMT 2025","passed","Fri Feb 07 18:54:16 GMT 2025","JOB PIPELINE > Update job pipeline","Jobs","",""
+"","121","post a comment","GetLinked-Recruiter","Fri Feb 07 18:54:47 GMT 2025","passed","Fri Feb 07 18:54:47 GMT 2025","Result Managment > post a comment","Assessment and interview","",""
+"","114","Empty fields - get result overview","GetLinked-Recruiter","Fri Feb 07 18:54:45 GMT 2025","passed","Fri Feb 07 18:54:45 GMT 2025","Result Managment > get result overview","Assessment and interview","",""
+"","110","acceptTeamInvite-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:07 GMT 2025","acceptTeamInvite","Team members","",""
+"","116","re arrange job pipeline-Empty field","GetLinked-Recruiter","Fri Feb 07 18:54:19 GMT 2025","passed","Fri Feb 07 18:54:19 GMT 2025","JOB PIPELINE > re-arrange job pipeline","Jobs","",""
+"","100","fetch_talent_job_application_invalidID","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_talent_job_application","Jobs","",""
+"Type of recruiters
+
+- PERSONAL_RECRUITER
+- HR_PERSONNEL
+- RECRUITMENT_AGENCY","119","create_hr-valid_details","GetLinked-Recruiter","Fri Feb 07 18:54:11 GMT 2025","passed","Fri Feb 07 18:54:12 GMT 2025","recruiter > create_hr","Onboarding","",""
+"","99","empty_fields - login","GetLinked-Recruiter","Fri Feb 07 18:54:06 GMT 2025","failed","Fri Feb 07 18:54:07 GMT 2025","login","Onboarding","",""
+"","96","no_token - refresh token","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","refresh_ token","Onboarding","",""
+"","118","inviteTeamMember-Invalid Role","GetLinked-Recruiter","Fri Feb 07 18:55:06 GMT 2025","passed","Fri Feb 07 18:55:06 GMT 2025","inviteTeamMember","Team members","",""
+"","115","email_check","GetLinked-Recruiter","Fri Feb 07 18:55:02 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","email_check","Talent pool","",""
+"","125","updateRolePermissions","GetLinked-Recruiter","Fri Feb 07 18:55:07 GMT 2025","passed","Fri Feb 07 18:55:08 GMT 2025","updateRolePermission","Team members","",""
+"","110","candidate_job_application_progression-Invalid Stage ID","GetLinked-Recruiter","Fri Feb 07 18:54:20 GMT 2025","passed","Fri Feb 07 18:54:20 GMT 2025","JOB PIPELINE > candidate job application","Jobs","",""
+"","111","inviteFromJobPipeline-invalidID","GetLinked-Recruiter","Fri Feb 07 18:54:59 GMT 2025","passed","Fri Feb 07 18:54:59 GMT 2025","Video Interview > inviteFromJobPipeline","Assessment and interview","",""
+"","119","delete assessment interview","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > delete assessment interview","Assessment and interview","",""
+"","112","pagination - candidate result-Invalid Interview ID","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > pagination - candidate result","Assessment and interview","",""
+"","110","list questions in an interview pack-Invalid Interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:55 GMT 2025","passed","Fri Feb 07 18:54:55 GMT 2025","Video Interview > List Questions in an interview","Assessment and interview","",""
+"","94","create interview pack-No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > Create Interview pack","Assessment and interview","",""
+"","108","Individual candidate result detail","GetLinked-Recruiter","Fri Feb 07 18:55:00 GMT 2025","passed","Fri Feb 07 18:55:00 GMT 2025","Video Interview > Individual candidate result detail","Assessment and interview","",""
+"","117","update is seen","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","updateIsSeen","Jobs","",""
+"","112","deleteInterviewPack-Invalid ID","GetLinked-Recruiter","Fri Feb 07 18:54:53 GMT 2025","passed","Fri Feb 07 18:54:53 GMT 2025","Video Interview > deleteInterviewPack","Assessment and interview","",""
+"","110","verify_email","GetLinked-Recruiter","Fri Feb 07 18:54:09 GMT 2025","passed","Fri Feb 07 18:54:09 GMT 2025","company > company_email > verify_email","Onboarding","",""
+"","114","recruiter_inexisting_recruiter","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > delete_recruiter","Onboarding","",""
+"","119","invite for interview from assessment","GetLinked-Recruiter","Fri Feb 07 18:54:57 GMT 2025","passed","Fri Feb 07 18:54:57 GMT 2025","Video Interview > invitation > Invite for interview from assesment","Assessment and interview","",""
+"","112","upload bulk cv to pipeline-Empty fileds","GetLinked-Recruiter","Fri Feb 07 18:54:22 GMT 2025","passed","Fri Feb 07 18:54:22 GMT 2025","JOB PIPELINE > Upload bulk CV","Jobs","",""
+"","98","fetch_talent_job_application-no Auth","GetLinked-Recruiter","Fri Feb 07 18:54:31 GMT 2025","passed","Fri Feb 07 18:54:31 GMT 2025","fetch_talent_job_application","Jobs","",""
+"","118","No email - check_user_status","GetLinked-Recruiter","Fri Feb 07 18:55:04 GMT 2025","passed","Fri Feb 07 18:55:04 GMT 2025","check_user_status","Talent pool","",""
+"","115","delete job-No ID","GetLinked-Recruiter","Fri Feb 07 18:54:33 GMT 2025","passed","Fri Feb 07 18:54:33 GMT 2025","delete_job","Jobs","",""
+"","110","Empty fields - onboard_as_global_intern - new user","GetLinked-Recruiter","Fri Feb 07 18:55:01 GMT 2025","passed","Fri Feb 07 18:55:01 GMT 2025","onboard_as_global_intern - new user","Talent pool","",""
+"","114","get test recommendations","GetLinked-Recruiter","Fri Feb 07 18:54:39 GMT 2025","passed","Fri Feb 07 18:54:39 GMT 2025","Assessment > Test Recommendation","Assessment and interview","",""
+"","113","get job details- Invalid Job ID","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","get job details","Jobs","",""
+"","109","Delete question from section","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment > DeleteQuestionfromAssessment","Assessment and interview","",""
+"","124","edit question in interview pack","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Edit Question  Interview","Assessment and interview","",""
+"","115","track_job_view","GetLinked-Recruiter","Fri Feb 07 18:54:32 GMT 2025","passed","Fri Feb 07 18:54:32 GMT 2025","track_job_view","Jobs","",""
+"","95","No auth - remove candidate","GetLinked-Recruiter","Fri Feb 07 18:54:34 GMT 2025","passed","Fri Feb 07 18:54:34 GMT 2025","Remove candidate","Candidates","",""
+"","115","create question in  interview pack-Invalid Interview pack ID","GetLinked-Recruiter","Fri Feb 07 18:54:54 GMT 2025","passed","Fri Feb 07 18:54:54 GMT 2025","Video Interview > Create Question in i nterview pack","Assessment and interview","",""
+"","138","create question in question pack","GetLinked-Recruiter","Fri Feb 07 18:54:41 GMT 2025","passed","Fri Feb 07 18:54:41 GMT 2025","Assessment","Assessment and interview","",""
+"","96","invite for interview from assessment - No Auth","GetLinked-Recruiter","Fri Feb 07 18:54:58 GMT 2025","passed","Fri Feb 07 18:54:58 GMT 2025","Video Interview > invitation > Invite for interview from assesment","Assessment and interview","",""
+"","117","updateCompanyProfile","GetLinked-Recruiter","Fri Feb 07 18:55:05 GMT 2025","passed","Fri Feb 07 18:55:05 GMT 2025","updateCompanyProfile","Profile","",""
+"","114","verify_company_email-incomplete_code","GetLinked-Recruiter","Fri Feb 07 18:54:13 GMT 2025","passed","Fri Feb 07 18:54:13 GMT 2025","recruiter > verify_company_email","Onboarding","",""
+"","95","No auth - edit question in pack","GetLinked-Recruiter","Fri Feb 07 18:54:52 GMT 2025","passed","Fri Feb 07 18:54:52 GMT 2025","Question Pack > edit question in pack","Assessment and interview","",""
+"","118","onboard_as_global_intern - existing user","GetLinked-Recruiter","Fri Feb 07 18:55:01 GMT 2025","passed","Fri Feb 07 18:55:02 GMT 2025","onboard_as_global_intern - existing user","Talent pool","",""
+"","96","create group-emptyFields","GetLinked-Recruiter","Fri Feb 07 18:54:35 GMT 2025","passed","Fri Feb 07 18:54:35 GMT 2025","CV PARSER > Group > createGroup","Candidates","",""
+"","96","No auth - Create Question in Question Pack","GetLinked-Recruiter","Fri Feb 07 18:54:51 GMT 2025","passed","Fri Feb 07 18:54:51 GMT 2025","Question Pack > Create Question in Question Pack","Assessment and interview","",""

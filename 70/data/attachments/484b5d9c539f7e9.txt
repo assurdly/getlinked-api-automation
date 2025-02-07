@@ -1,8 +1,0 @@
-{
-    "assessment_interview":"e022d676-277d-4b03-84c6-8e30e1d96df0",
-    "candidates":[
-        {"name": "Teni John", "email": "teni@mailinator.com"}
-    ],
-    "is_from_job_post": "False",
-    "auth_method": ["email"]
-}

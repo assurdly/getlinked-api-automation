@@ -1,5 +1,0 @@
-{
-    "old_password": "Alliswell2012$",
-    "new_password": "checkWORD9$",
-    "confirm_password": "checkWORD9"
-}

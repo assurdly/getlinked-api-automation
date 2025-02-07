@@ -1,3 +1,0 @@
-{
-    "name": "District Solutions Producer Interview Pack"
-}

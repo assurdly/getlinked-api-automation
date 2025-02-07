@@ -1,8 +1,0 @@
-{
-    "invitation_token": "",
-    "first_name": "",
-    "last_name": "",
-    "phone_number": "",
-    "gender": "",
-    "password": ""
-}

@@ -1,1 +1,0 @@
-{"confirm_password":["Error: password should have at least one special character (!@#$%^&*()_+-=[]{}|;:,.<>?)."]}

@@ -1,4 +1,0 @@
-{
-    "name": "Pipeline Name",
-    "is_default": "False"
-}

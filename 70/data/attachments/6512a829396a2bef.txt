@@ -1,6 +1,0 @@
-{
-    "candidate_ids": ["1cacf4b0-1ac2-4647-a275-2a87f276ceac",
-                       "ec5a0f38-2aed-7060-8f59-cc1914f23135"
-    ],
-    "interview_id": "dcd5b12d-901c-4b38-9174-b5e5a12baf94"
-}

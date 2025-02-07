@@ -1,3 +1,0 @@
-{
-    "name": "Internal Marketing Officer Interview Pack"
-}

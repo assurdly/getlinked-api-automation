@@ -1,4 +1,0 @@
-{
-    "name": "Preliminary stage.",
-    "is_default": "False"
-}

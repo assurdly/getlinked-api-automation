@@ -1,1 +1,0 @@
-{"detail":"Result overview not found for the given candidate and assessment."}

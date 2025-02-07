@@ -1,5 +1,0 @@
-{
-    "name": "Two Interview 2",
-    "role": 1,
-    "role_level": "entry_level"
-}

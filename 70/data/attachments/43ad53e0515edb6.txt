@@ -1,3 +1,0 @@
-{
-    "name": "Direct Accounts Technician Interview Pack"
-}

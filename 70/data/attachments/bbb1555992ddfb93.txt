@@ -1,3 +1,0 @@
-{
-    "name": "Regional Optimization Agent Interview Pack"
-}
