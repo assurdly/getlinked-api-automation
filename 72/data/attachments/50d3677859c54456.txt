@@ -1,6 +1,0 @@
-{
-    "otp": "808080",
-    "email": "Jamel@mailinator.com",
-    "new_password": "@Password1",
-    "confirm_password": "@Password1"
-}

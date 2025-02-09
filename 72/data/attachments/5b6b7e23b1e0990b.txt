@@ -1,3 +1,0 @@
-{
-    "name": "Dynamic Group Producer Interview Pack"
-}

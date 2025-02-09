@@ -1,0 +1,10 @@
+{
+    "first_name": "Karson",
+    "last_name": "Torphy",
+    "email": "Connor_Vandervort95@hotmail.com",
+    "phone_number": "+23408050390347",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
