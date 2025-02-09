@@ -1,4 +1,0 @@
-{
-    "email": "abisola+4@assurdly.com",
-    "code": "835758"
-}

@@ -1,0 +1,18 @@
+{
+    "email": "Jasper@yopmail.com",
+    "create_password": "strongpassword123",
+    "name": "Chucks Aminat",
+    "job_title": "Senior Developer",
+    "role_description_responsibilities": "Develop and maintain web applications.",
+    "proficiency_level": "SENIOR_LEVEL",
+    "working_option": "REMOTE",
+    "employment_type": "FULL_TIME",
+    "location": "New York, NY",
+    "number_of_talent": "3",
+    "salary": "120000",
+    "requirements" : "kasjfkasjfklsafjlkadsjfksjfkfjklsajflksdjfklsajfklsdjfklasjfklsjafkljdsafkljdslfjdfljsfjklsjdlf",
+    "industry": "Technology",
+    "company_name": "Tech Innovators",
+    "company_domain": "techinnovators.com",
+    "logo": "https://example.com/logo.png"
+}

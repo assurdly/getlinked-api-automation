@@ -1,3 +1,0 @@
-{
-    "name": "Senior Usability Designer Interview Pack"
-}

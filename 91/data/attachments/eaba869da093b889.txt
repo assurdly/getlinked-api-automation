@@ -1,0 +1,10 @@
+{
+    "first_name": "Wayne",
+    "last_name": "Jerde",
+    "email": "Raleigh60@yahoo.com",
+    "phone_number": "+2340802688641",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
