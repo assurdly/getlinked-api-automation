@@ -1,3 +1,0 @@
-{
-    "name": "Direct Markets Specialist Interview Pack"
-}
