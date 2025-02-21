@@ -1,0 +1,10 @@
+{
+    "first_name": "Coleman",
+    "last_name": "Mills",
+    "email": "Loren.Kessler46@gmail.com",
+    "phone_number": "+23408039617178",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

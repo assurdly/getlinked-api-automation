@@ -1,1 +1,0 @@
-{"assessment_name":"Test","role":1,"experience_level":"entry_level","total_no_questions":0,"total_invites":0,"completed":0,"ongoing":0,"not_started":0,"average_score":null,"is_published":false,"last_page_url":null,"invite_info":{"message":"No invites found for the assessment."},"candidates":[]}
