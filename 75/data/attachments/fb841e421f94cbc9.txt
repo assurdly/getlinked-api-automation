@@ -1,1 +1,0 @@
-{"id":"ed8df1e3-9833-448d-8511-f149d7832618","name":"Testing Update Two","questions":[],"role":3,"role_level":"entry_level","creator":10,"start_time":null,"deadline":null,"total_questions":0,"no_candidates":0,"completed":[],"paused":[],"ongoing":[],"not_started":[],"is_published":false}

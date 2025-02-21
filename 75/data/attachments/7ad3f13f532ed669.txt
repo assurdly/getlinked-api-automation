@@ -1,1 +1,0 @@
-{"job_application_ids":["The job_application_ids list cannot be empty."]}

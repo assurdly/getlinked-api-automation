@@ -1,9 +1,0 @@
-{
-    "invitation_token": "eyJyZWNpcGllbnRfZW1haWwiOiJmZWxhQG1haWxpbmF0b3IuY29tIiwiY29tcGFueV9pZCI6MTAsIklzX3JlY3J1aXRlciI6dHJ1ZSwicm9sZSI6MzgsInR5cGVfb2ZfcmVjcnVpdGVyIjoiUEVSU09OQUxfUkVDUlVJVEVSIn0:1tWF7s:hbrkAjhktBxkMRdBAq3D2eewaHj1ifGHhIyox4bsEsM",
-    "first_name": "Adeolu",
-    "last_name": "Sayo",
-    "phone_number": "+2348024139162",
-    "gender": "Female",
-    "password": "@Password1",
-    "confirm_password": "@Password1"
-}

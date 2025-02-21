@@ -1,1 +1,0 @@
-{"job_unique_id":["This field may not be blank."],"stage_id":["A valid integer is required."],"job_application_ids":["The job_application_ids list cannot be empty."]}

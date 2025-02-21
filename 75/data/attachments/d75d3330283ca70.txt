@@ -1,3 +1,0 @@
-{
-    "name": "District Factors Engineer Interview Pack"
-}

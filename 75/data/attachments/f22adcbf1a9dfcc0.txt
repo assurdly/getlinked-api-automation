@@ -1,5 +1,0 @@
-{
-    "job_id": 21,
-    "job_applications": [2,4]
-    
-}

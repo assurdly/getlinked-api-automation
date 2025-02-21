@@ -1,4 +1,0 @@
-{
-    "email": "wanni@mailinator.com",
-    "code": "093706"
-}

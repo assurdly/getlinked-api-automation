@@ -1,1 +1,0 @@
-{"detail":"Job application not found. Please check the provided ID."}

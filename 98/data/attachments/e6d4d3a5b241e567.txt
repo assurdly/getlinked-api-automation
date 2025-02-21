@@ -1,0 +1,10 @@
+{
+    "first_name": "Keshaun",
+    "last_name": "Gottlieb",
+    "email": "Anastasia.Boyer3@gmail.com",
+    "phone_number": "+23408022137351",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

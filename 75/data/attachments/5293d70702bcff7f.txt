@@ -1,6 +1,0 @@
-{
-    "candidates":[
-        {"name": "Ibejih Daniel", "email": "chuks@mailinator.com", "password": "@Password1"},
-        {"name": "Chuka Daniel", "email": "chuks@mailinator.com", "password": "@Password1"}
-    ]
-}

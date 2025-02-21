@@ -1,0 +1,10 @@
+{
+    "first_name": "Marisa",
+    "last_name": "Kshlerin",
+    "email": "Sammy_Mayert@yahoo.com",
+    "phone_number": "+23408044141221",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
