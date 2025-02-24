@@ -1,0 +1,10 @@
+{
+    "first_name": "Esperanza",
+    "last_name": "Price",
+    "email": "Reymundo.Wilderman16@yahoo.com",
+    "phone_number": "+23408070091403",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

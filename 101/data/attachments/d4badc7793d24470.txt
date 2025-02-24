@@ -1,0 +1,1 @@
+{"id":"d9fa1cc5-ffb0-46f6-a493-1743ac5d0dc3","result_overview":"1c5fcde2-6e63-4324-916c-9bd479ef39e2","recruiter":10,"recruiter_name":"Ayobami Alaran","timestamp":"2025-02-24T07:29:06.236397+01:00","text":"This is a test comment","rating":3.0}
