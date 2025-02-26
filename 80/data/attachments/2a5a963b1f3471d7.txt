@@ -1,3 +1,0 @@
-{
-    "name": "Investor Identity Designer Interview Pack"
-}

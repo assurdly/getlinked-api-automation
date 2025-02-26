@@ -1,0 +1,10 @@
+{
+    "first_name": "Barbara",
+    "last_name": "Sporer",
+    "email": "Alisa_McDermott55@gmail.com",
+    "phone_number": "+23408053023358",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
