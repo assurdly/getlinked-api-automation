@@ -1,0 +1,10 @@
+{
+    "first_name": "Reta",
+    "last_name": "Aufderhar",
+    "email": "Michelle12@yahoo.com",
+    "phone_number": "+23408092845731",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}

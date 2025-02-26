@@ -1,3 +1,0 @@
-{
-    "name": "Forward Quality Officer Interview Pack"
-}
