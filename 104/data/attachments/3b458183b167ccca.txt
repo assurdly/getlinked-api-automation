@@ -1,0 +1,10 @@
+{
+    "first_name": "Narciso",
+    "last_name": "Yost",
+    "email": "Ken@mailinator.com",
+    "phone_number": "+23408072057034",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
