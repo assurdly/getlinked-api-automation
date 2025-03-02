@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"message":"user has updated password.","has_updated_password":true},"errors":null}

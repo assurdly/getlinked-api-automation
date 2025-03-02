@@ -1,4 +1,0 @@
-{
-    "section_name":"Updated Question Pack section 2",
-    "question_pack":[]
-}

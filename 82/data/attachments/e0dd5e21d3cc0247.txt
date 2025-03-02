@@ -1,5 +1,0 @@
-{
-    "company": "",
-    "type_of_recruiter": "",
-    "role": ""
-}

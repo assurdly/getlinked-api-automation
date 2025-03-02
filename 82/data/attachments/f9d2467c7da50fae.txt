@@ -1,4 +1,0 @@
-{
-    "email": "2024cohorts@mailinator.com",
-    "name": "Backend Developers Batch B"
-}

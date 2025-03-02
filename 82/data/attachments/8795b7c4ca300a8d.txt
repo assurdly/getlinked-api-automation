@@ -1,1 +1,0 @@
-{"candidate_email":["Enter a valid email address."]}

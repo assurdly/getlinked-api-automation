@@ -1,1 +1,0 @@
-{"status":"success","status_code":null,"data":{"status":true,"message":"Password reset was successful."},"errors":null}

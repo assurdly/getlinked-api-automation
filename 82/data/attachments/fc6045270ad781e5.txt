@@ -1,4 +1,0 @@
-{
-    "email": "anygmail.com",
-    "name": "Backend Developers Batch B"
-}

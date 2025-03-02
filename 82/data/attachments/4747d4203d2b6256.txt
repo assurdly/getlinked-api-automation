@@ -1,3 +1,0 @@
-{
-    "name": "National Response Orchestrator Interview Pack"
-}
