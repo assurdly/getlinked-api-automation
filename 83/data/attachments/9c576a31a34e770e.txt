@@ -1,3 +1,0 @@
-{
-    "name": "Central Operations Analyst Interview Pack"
-}
