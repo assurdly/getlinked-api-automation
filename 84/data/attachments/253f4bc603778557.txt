@@ -1,3 +1,0 @@
-{
-    "name": "Forward Data Manager Interview Pack"
-}

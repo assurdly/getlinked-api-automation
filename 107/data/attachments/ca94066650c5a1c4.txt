@@ -1,0 +1,10 @@
+{
+    "first_name": "Helena",
+    "last_name": "Anderson",
+    "email": "Kailee.Tillman41@gmail.com",
+    "phone_number": "+23408052696735",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password12",
+    "confirm_password": "Password12"
+}

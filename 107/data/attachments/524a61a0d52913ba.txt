@@ -1,0 +1,10 @@
+{
+    "first_name": "Jeffery",
+    "last_name": "Langosh",
+    "email": "Arlo.Mueller3@yahoo.com",
+    "phone_number": "+23408011039490",
+    "date_of_birth": "1995-12-08",
+    "gender": "M",
+    "password": "Password1",
+    "confirm_password": "Password12"
+}
