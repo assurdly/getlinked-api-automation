@@ -1,0 +1,1 @@
+{"id":"e9d328d0-0c1c-4d03-bb87-a832f9b60d58","question_set":[],"question_types":{},"name":"Liberty Tech Assessment Pack","description":null,"total_questions":0,"is_intervew":false,"created_at":"2025-03-07T19:54:36.280960+01:00","updated_at":"2025-03-07T19:54:36.280979+01:00","recruiter":10}

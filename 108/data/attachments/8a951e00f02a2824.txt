@@ -1,0 +1,1 @@
+{"id":"a605321c-9dcc-40e2-8644-508d5f455ba9","question_set":[],"name":"Investor Group Specialist Interview Pack","description":null,"created_at":"2025-03-07T19:54:37.707021+01:00","updated_at":"2025-03-07T19:54:37.707037+01:00","recruiter":10}

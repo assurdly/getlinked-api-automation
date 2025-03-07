@@ -1,3 +1,0 @@
-{
-    "name": "Lead Tactics Executive Interview Pack"
-}
