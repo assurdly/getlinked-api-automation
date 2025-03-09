@@ -1,0 +1,1 @@
+{"error":"Invalid job_status filter","message":"Invalid status: {'GOOD'}. Use ['DRAFT', 'OPEN', 'CLOSED', 'QUEUED']."}
