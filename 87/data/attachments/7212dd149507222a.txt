@@ -1,3 +1,0 @@
-{
-    "name": "Investor Response Assistant Interview Pack"
-}

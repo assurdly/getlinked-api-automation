@@ -1,1 +1,0 @@
-{"id":"87d1c342-fb77-4193-9758-625430ced1a4","job_application":1,"recruiter":10,"recruiter_name":"Ayobami Alaran","timestamp":"2024-11-11T09:41:42.962301","text":"This comment just got edited","rating":3.0}

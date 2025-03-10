@@ -1,0 +1,10 @@
+{
+    "first_name": "Samantha",
+    "last_name": "Bernhard",
+    "email": "Duane@mailinator.com",
+    "phone_number": "+23408086192102",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

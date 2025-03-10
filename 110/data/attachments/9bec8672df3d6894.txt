@@ -1,0 +1,10 @@
+{
+    "email": "test_recruiter_dev01@guerrillamail.com",
+    "password":"Password12$ "
+}
+
+
+
+
+
+

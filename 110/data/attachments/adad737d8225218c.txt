@@ -1,0 +1,1 @@
+{"id":"e9e20341-be14-4266-91e2-1993d76ec2b8","result_overview":"1c5fcde2-6e63-4324-916c-9bd479ef39e2","recruiter":212,"recruiter_name":"Johnny Drille","timestamp":"2025-03-10T09:11:40.484221+01:00","text":"This is a test comment","rating":3.0}

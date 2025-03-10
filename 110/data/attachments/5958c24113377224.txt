@@ -1,0 +1,1 @@
+{"id":"4e21e736-72b0-4035-8a1b-0ef47e5eb8d3","job_application":1,"recruiter":212,"recruiter_name":"Johnny Drille","timestamp":"2025-03-10T09:11:05.130377+01:00","text":"This is a for the clout","rating":3.0}
