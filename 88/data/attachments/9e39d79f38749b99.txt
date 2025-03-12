@@ -1,5 +1,0 @@
-{
-    "name": "Culture fit",
-    "move_criteria": 50,
-    "assessment": "6c197118-998d-4c31-85c7-2615858b1a7c"
-}

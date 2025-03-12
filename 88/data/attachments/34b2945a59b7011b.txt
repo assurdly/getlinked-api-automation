@@ -1,3 +1,0 @@
-{
-    "name": "Legacy Security Associate Interview Pack"
-}

@@ -1,0 +1,10 @@
+{
+    "first_name": "Jolie",
+    "last_name": "Murphy",
+    "email": "Cordia@mailinator.com",
+    "phone_number": "+23408027127750",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}

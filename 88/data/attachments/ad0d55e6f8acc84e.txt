@@ -1,4 +1,0 @@
-{
-    "candidate_ids": ["79ec09ca-c54d-4278-91d4-2022017003ad"],
-    "interview_id": ""
-}

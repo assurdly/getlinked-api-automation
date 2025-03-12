@@ -1,1 +1,0 @@
-{"message":"Processed candidates successfully.","email_sent_to":[],"not_found":["a2bed3dc-78de-45e3-86f5-02624d64a1c2"],"already_invited":[]}

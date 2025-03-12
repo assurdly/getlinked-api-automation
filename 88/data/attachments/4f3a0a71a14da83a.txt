@@ -1,1 +1,0 @@
-{"id":"559a41ac-b65b-4bcd-a1eb-d69b361346ee","section":"acfb6aca-bd88-4d6d-9281-407e7199e61e","question":"What is enable Intranet synthesize out-of-the-box Summit ?","time":4000}

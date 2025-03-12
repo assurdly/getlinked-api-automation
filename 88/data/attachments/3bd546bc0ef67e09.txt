@@ -1,1 +1,0 @@
-{"message":"Congratulations, you've been moved to Interview stage"}

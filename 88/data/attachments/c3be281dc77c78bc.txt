@@ -1,3 +1,0 @@
-{
-    "email": "vigiwoy708@acroins.com"
-}

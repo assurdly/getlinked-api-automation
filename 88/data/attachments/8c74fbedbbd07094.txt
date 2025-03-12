@@ -1,3 +1,0 @@
-{
-    "name": "Customer Usability Coordinator Interview Pack"
-}
