@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"223b33e7-84af-4797-aebc-d88d57b5900b","first_name":"Ayobami","middle_name":"Abd","last_name":"Alaran","email":"test_recruiter_dev01@guerrillamail.com","email_verified":true,"phone_number":"+2348000000005","date_of_birth":null,"gender":"F","user_type":"RECRUITER","address":"Some"},"errors":null}

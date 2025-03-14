@@ -1,0 +1,10 @@
+{
+    "first_name": "Cordell",
+    "last_name": "Parker",
+    "email": "Flavio@mailinator.com",
+    "phone_number": "+23408029436163",
+    "date_of_birth": "1995-12-08",
+    "gender": "F",
+    "password": "Password12@@",
+    "confirm_password": "Password12@@"
+}
